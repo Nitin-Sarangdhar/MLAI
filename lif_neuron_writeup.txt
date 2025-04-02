@@ -1,0 +1,20 @@
+I chose challenge 4 The Leaky Integrate-and-Fire (LIF) neuron is a simplified mathematical model of a biological neuron. I have some experience with spiking neuron based neural network where the same was implemented in a silicon.
+
+Verilog source code: lif_neuron.v
+Verilog test bench: lif_neuron_tb.v
+Verilog simulator output: simulation_results.txt
+Compiled Verilog code:  lif_neuron_tb.vvp
+
+In order to get to this point
+1. Installed WSL on my windows laptop. Allowed me to use Linux environment
+2. Installed iverilog in the Linux environment.
+3. created the source files
+4. compiled code.
+5. Found and observed results
+6. Some results were not as expected so updated the source file
+7. Saved the results in the output file as expected.
+
+Next steps
+Observe the results in a graphical user interface
+Observe HW used in my source code.
+
