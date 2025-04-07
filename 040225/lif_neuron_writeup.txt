@@ -18,3 +18,43 @@ Next steps
 Observe the results in a graphical user interface
 Observe HW used in my source code.
 
+the hardware resources used in the verilog code:
+
+1. Registers
+
+membrane_potential: This is declared as a reg:  reg [MEMBRANE_POTENTIAL_WIDTH-1:0] membrane_potential;// Memebrane potential bit wide register
+spike_output: This is also a reg: output reg spike_output; // 1-bit register.
+In total, the code uses (MEMBRANE_POTENTIAL_WIDTH + 1) flip-flops.
+
+2. Combinational Logic
+Adder/Subtractor:
+membrane_potential <= membrane_potential + synaptic_input - MEMBRANE_DECAY;
+membrane_potential <= membrane_potential + synaptic_input;
+adder (and possibly a subtractor, depending on the value of MEMBRANE_DECAY) to perform the arithmetic operations. The width of the adder is determined by MEMBRANE_POTENTIAL_WIDTH.
+Comparator(s):
+if (membrane_potential >= MEMBRANE_DECAY)
+if (membrane_potential >= MEMBRANE_THRESHOLD)
+The width of the comparators is MEMBRANE_POTENTIAL_WIDTH.
+
+Mux:
+The if...else statements within the always block imply a multiplexer.
+Another MUX is inferred for the spike_output assignment.
+
+3. Reset Logic
+The if (reset) condition infers the logic required to asynchronously reset the registers.  This is typically implemented using the reset input of the flip-flops.
+
+Summary of Hardware Resources
+
+Registers: MEMBRANE_POTENTIAL_WIDTH bits for membrane_potential, and 1 bit for spike_output.
+Combinational Logic:
+Adder/Subtractor:  MEMBRANE_POTENTIAL_WIDTH bits wide.
+Comparators: Two, each MEMBRANE_POTENTIAL_WIDTH bits wide.
+Multiplexers:  Two, with a width of MEMBRANE_POTENTIAL_WIDTH for the membrane potential update, and 1 bit wide for the spike output.
+Reset Logic: Asynchronous reset circuitry for the registers.
+
+Example: MEMBRANE_POTENTIAL_WIDTH = 8
+Two registers: One 8-bit register, one 1-bit register.
+One 8-bit adder/subtractor.
+Two 8-bit comparators.
+Two multiplexers: one 8-bit, one 1-bit.
+Reset logic for the registers.
