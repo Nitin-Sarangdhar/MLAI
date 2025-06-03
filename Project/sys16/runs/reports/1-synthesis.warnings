@@ -1,0 +1,4 @@
+Warning: Replacing memory \B_in_packed with list of registers. See /openlane/designs/sys16/src/sys16.sv:77
+Warning: Replacing memory \A_in_packed with list of registers. See /openlane/designs/sys16/src/sys16.sv:76
+Warning: Replacing memory \B_in_packed with list of registers. See /openlane/designs/sys16/src/sys16.sv:77
+Warning: Replacing memory \A_in_packed with list of registers. See /openlane/designs/sys16/src/sys16.sv:76

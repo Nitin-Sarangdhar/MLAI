@@ -1,0 +1,1 @@
+ERROR: ABC: execution of command ""/nix/store/wq2q0njg3sx8wvj2akz7x1qxwyrv9xlr-yosys-abc/bin/abc" -s -f /tmp/yosys-abc-H1Oh4D/abc.script 2>&1" failed: return code 137.
