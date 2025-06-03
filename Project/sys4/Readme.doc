@@ -1,0 +1,3 @@
+This subdirectory contains the detailed design of a 4x4 Matrix Multiplier.
+The HW used was taken through the entire synthesis flow using Openlane tools 
+on a PC running Windows/WSL/Docker/Openlane environment
