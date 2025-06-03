@@ -1,0 +1,26 @@
+
+49. Printing statistics.
+
+=== sys4 ===
+
+   Number of wires:              26512
+   Number of wire bits:          28028
+   Number of public wires:          24
+   Number of public wire bits:    1031
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:              27513
+     $_ANDNOT_                    6956
+     $_AND_                       4317
+     $_DFFE_PP0P_                  260
+     $_DFFE_PP_                    256
+     $_MUX_                        513
+     $_NAND_                      1423
+     $_NOR_                        978
+     $_NOT_                        780
+     $_ORNOT_                      566
+     $_OR_                        2262
+     $_XNOR_                      2517
+     $_XOR_                       6685
+

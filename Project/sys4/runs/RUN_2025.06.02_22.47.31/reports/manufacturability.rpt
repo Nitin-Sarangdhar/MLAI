@@ -1,0 +1,19 @@
+Design Name: sys4
+Run Directory: /openlane/designs/sys4/runs/RUN_2025.06.02_22.47.31
+----------------------------------------
+
+Magic DRC Summary:
+Source: /openlane/designs/sys4/runs/RUN_2025.06.02_22.47.31/reports/signoff/drc.rpt
+Total Magic DRC violations is 0
+----------------------------------------
+
+LVS Summary:
+Source: /openlane/designs/sys4/runs/RUN_2025.06.02_22.47.31/logs/signoff/38-sys4.lef.lvs.log
+Number of nets: 28308                      |Number of nets: 28308                      
+Design is LVS clean.
+----------------------------------------
+
+Antenna Summary:
+Source: /openlane/designs/sys4/runs/RUN_2025.06.02_22.47.31/logs/signoff/41-arc.log
+Pin violations: 303
+Net violations: 238
