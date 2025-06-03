@@ -1,1 +1,5 @@
 A new directory created to store the project progress.
+This directory contains three subdirectories
+sys16: This directory contains 16x16 vector multipler verilog implementation
+sys4: This directory contains 4x4 vector multiplier verilog implementation
+system: This directory contains the overall system architecture and intended use of the HW multipliers
