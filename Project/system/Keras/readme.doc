@@ -1,0 +1,3 @@
+This directory contains the initial model used for helmet detection application
+This uses binary classification using keras.
+The results are not satisfactory so needed to move to a better SW model
