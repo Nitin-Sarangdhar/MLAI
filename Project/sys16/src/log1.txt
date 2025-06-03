@@ -1,0 +1,4693 @@
+TB Time 5000 | rst=1 start=0 done=0
+----- Multipliers inputs and outputs at time 5000 (state 0) (pass_j 0)-----
+m0 A_in: [x x; x x]
+m0 B_in: [x x; x x]
+m0 C_out: [x x; x x]
+m1 A_in: [x x; x x]
+m1 B_in: [x x; x x]
+m1 C_out: [x x; x x]
+m2 A_in: [x x; x x]
+m2 B_in: [x x; x x]
+m2 C_out: [x x; x x]
+m3 A_in: [x x; x x]
+m3 B_in: [x x; x x]
+m3 C_out: [x x; x x]
+m4 A_in: [x x; x x]
+m4 B_in: [x x; x x]
+m4 C_out: [x x; x x]
+m5 A_in: [x x; x x]
+m5 B_in: [x x; x x]
+m5 C_out: [x x; x x]
+m6 A_in: [x x; x x]
+m6 B_in: [x x; x x]
+m6 C_out: [x x; x x]
+m7 A_in: [x x; x x]
+m7 B_in: [x x; x x]
+m7 C_out: [x x; x x]
+m8 A_in: [x x; x x]
+m8 B_in: [x x; x x]
+m8 C_out: [x x; x x]
+m9 A_in: [x x; x x]
+m9 B_in: [x x; x x]
+m9 C_out: [x x; x x]
+m10 A_in: [x x; x x]
+m10 B_in: [x x; x x]
+m10 C_out: [x x; x x]
+m11 A_in: [x x; x x]
+m11 B_in: [x x; x x]
+m11 C_out: [x x; x x]
+m12 A_in: [x x; x x]
+m12 B_in: [x x; x x]
+m12 C_out: [x x; x x]
+m13 A_in: [x x; x x]
+m13 B_in: [x x; x x]
+m13 C_out: [x x; x x]
+m14 A_in: [x x; x x]
+m14 B_in: [x x; x x]
+m14 C_out: [x x; x x]
+m15 A_in: [x x; x x]
+m15 B_in: [x x; x x]
+m15 C_out: [x x; x x]
+m16 A_in: [x x; x x]
+m16 B_in: [x x; x x]
+m16 C_out: [x x; x x]
+m17 A_in: [x x; x x]
+m17 B_in: [x x; x x]
+m17 C_out: [x x; x x]
+m18 A_in: [x x; x x]
+m18 B_in: [x x; x x]
+m18 C_out: [x x; x x]
+m19 A_in: [x x; x x]
+m19 B_in: [x x; x x]
+m19 C_out: [x x; x x]
+m20 A_in: [x x; x x]
+m20 B_in: [x x; x x]
+m20 C_out: [x x; x x]
+m21 A_in: [x x; x x]
+m21 B_in: [x x; x x]
+m21 C_out: [x x; x x]
+m22 A_in: [x x; x x]
+m22 B_in: [x x; x x]
+m22 C_out: [x x; x x]
+m23 A_in: [x x; x x]
+m23 B_in: [x x; x x]
+m23 C_out: [x x; x x]
+m24 A_in: [x x; x x]
+m24 B_in: [x x; x x]
+m24 C_out: [x x; x x]
+m25 A_in: [x x; x x]
+m25 B_in: [x x; x x]
+m25 C_out: [x x; x x]
+m26 A_in: [x x; x x]
+m26 B_in: [x x; x x]
+m26 C_out: [x x; x x]
+m27 A_in: [x x; x x]
+m27 B_in: [x x; x x]
+m27 C_out: [x x; x x]
+m28 A_in: [x x; x x]
+m28 B_in: [x x; x x]
+m28 C_out: [x x; x x]
+m29 A_in: [x x; x x]
+m29 B_in: [x x; x x]
+m29 C_out: [x x; x x]
+m30 A_in: [x x; x x]
+m30 B_in: [x x; x x]
+m30 C_out: [x x; x x]
+m31 A_in: [x x; x x]
+m31 B_in: [x x; x x]
+m31 C_out: [x x; x x]
+m32 A_in: [x x; x x]
+m32 B_in: [x x; x x]
+m32 C_out: [x x; x x]
+m33 A_in: [x x; x x]
+m33 B_in: [x x; x x]
+m33 C_out: [x x; x x]
+m34 A_in: [x x; x x]
+m34 B_in: [x x; x x]
+m34 C_out: [x x; x x]
+m35 A_in: [x x; x x]
+m35 B_in: [x x; x x]
+m35 C_out: [x x; x x]
+m36 A_in: [x x; x x]
+m36 B_in: [x x; x x]
+m36 C_out: [x x; x x]
+m37 A_in: [x x; x x]
+m37 B_in: [x x; x x]
+m37 C_out: [x x; x x]
+m38 A_in: [x x; x x]
+m38 B_in: [x x; x x]
+m38 C_out: [x x; x x]
+m39 A_in: [x x; x x]
+m39 B_in: [x x; x x]
+m39 C_out: [x x; x x]
+m40 A_in: [x x; x x]
+m40 B_in: [x x; x x]
+m40 C_out: [x x; x x]
+m41 A_in: [x x; x x]
+m41 B_in: [x x; x x]
+m41 C_out: [x x; x x]
+m42 A_in: [x x; x x]
+m42 B_in: [x x; x x]
+m42 C_out: [x x; x x]
+m43 A_in: [x x; x x]
+m43 B_in: [x x; x x]
+m43 C_out: [x x; x x]
+m44 A_in: [x x; x x]
+m44 B_in: [x x; x x]
+m44 C_out: [x x; x x]
+m45 A_in: [x x; x x]
+m45 B_in: [x x; x x]
+m45 C_out: [x x; x x]
+m46 A_in: [x x; x x]
+m46 B_in: [x x; x x]
+m46 C_out: [x x; x x]
+m47 A_in: [x x; x x]
+m47 B_in: [x x; x x]
+m47 C_out: [x x; x x]
+m48 A_in: [x x; x x]
+m48 B_in: [x x; x x]
+m48 C_out: [x x; x x]
+m49 A_in: [x x; x x]
+m49 B_in: [x x; x x]
+m49 C_out: [x x; x x]
+m50 A_in: [x x; x x]
+m50 B_in: [x x; x x]
+m50 C_out: [x x; x x]
+m51 A_in: [x x; x x]
+m51 B_in: [x x; x x]
+m51 C_out: [x x; x x]
+m52 A_in: [x x; x x]
+m52 B_in: [x x; x x]
+m52 C_out: [x x; x x]
+m53 A_in: [x x; x x]
+m53 B_in: [x x; x x]
+m53 C_out: [x x; x x]
+m54 A_in: [x x; x x]
+m54 B_in: [x x; x x]
+m54 C_out: [x x; x x]
+m55 A_in: [x x; x x]
+m55 B_in: [x x; x x]
+m55 C_out: [x x; x x]
+m56 A_in: [x x; x x]
+m56 B_in: [x x; x x]
+m56 C_out: [x x; x x]
+m57 A_in: [x x; x x]
+m57 B_in: [x x; x x]
+m57 C_out: [x x; x x]
+m58 A_in: [x x; x x]
+m58 B_in: [x x; x x]
+m58 C_out: [x x; x x]
+m59 A_in: [x x; x x]
+m59 B_in: [x x; x x]
+m59 C_out: [x x; x x]
+m60 A_in: [x x; x x]
+m60 B_in: [x x; x x]
+m60 C_out: [x x; x x]
+m61 A_in: [x x; x x]
+m61 B_in: [x x; x x]
+m61 C_out: [x x; x x]
+m62 A_in: [x x; x x]
+m62 B_in: [x x; x x]
+m62 C_out: [x x; x x]
+m63 A_in: [x x; x x]
+m63 B_in: [x x; x x]
+m63 C_out: [x x; x x]
+TB Matrix A:
+  x x x x x x x x x x x x x x x x 
+  x x x x x x x x x x x x x x x x 
+  x x x x x x x x x x x x x x x x 
+  x x x x x x x x x x x x x x x x 
+  x x x x x x x x x x x x x x x x 
+  x x x x x x x x x x x x x x x x 
+  x x x x x x x x x x x x x x x x 
+  x x x x x x x x x x x x x x x x 
+  x x x x x x x x x x x x x x x x 
+  x x x x x x x x x x x x x x x x 
+  x x x x x x x x x x x x x x x x 
+  x x x x x x x x x x x x x x x x 
+  x x x x x x x x x x x x x x x x 
+  x x x x x x x x x x x x x x x x 
+  x x x x x x x x x x x x x x x x 
+  x x x x x x x x x x x x x x x x 
+TB Matrix B:
+  x x x x x x x x x x x x x x x x 
+  x x x x x x x x x x x x x x x x 
+  x x x x x x x x x x x x x x x x 
+  x x x x x x x x x x x x x x x x 
+  x x x x x x x x x x x x x x x x 
+  x x x x x x x x x x x x x x x x 
+  x x x x x x x x x x x x x x x x 
+  x x x x x x x x x x x x x x x x 
+  x x x x x x x x x x x x x x x x 
+  x x x x x x x x x x x x x x x x 
+  x x x x x x x x x x x x x x x x 
+  x x x x x x x x x x x x x x x x 
+  x x x x x x x x x x x x x x x x 
+  x x x x x x x x x x x x x x x x 
+  x x x x x x x x x x x x x x x x 
+  x x x x x x x x x x x x x x x x 
+TB Matrix C:
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+-----------------------------------------------------
+TB Time 15000 | rst=0 start=0 done=0
+----- Multipliers inputs and outputs at time 15000 (state 0) (pass_j 0)-----
+m0 A_in: [x x; x x]
+m0 B_in: [x x; x x]
+m0 C_out: [x x; x x]
+m1 A_in: [x x; x x]
+m1 B_in: [x x; x x]
+m1 C_out: [x x; x x]
+m2 A_in: [x x; x x]
+m2 B_in: [x x; x x]
+m2 C_out: [x x; x x]
+m3 A_in: [x x; x x]
+m3 B_in: [x x; x x]
+m3 C_out: [x x; x x]
+m4 A_in: [x x; x x]
+m4 B_in: [x x; x x]
+m4 C_out: [x x; x x]
+m5 A_in: [x x; x x]
+m5 B_in: [x x; x x]
+m5 C_out: [x x; x x]
+m6 A_in: [x x; x x]
+m6 B_in: [x x; x x]
+m6 C_out: [x x; x x]
+m7 A_in: [x x; x x]
+m7 B_in: [x x; x x]
+m7 C_out: [x x; x x]
+m8 A_in: [x x; x x]
+m8 B_in: [x x; x x]
+m8 C_out: [x x; x x]
+m9 A_in: [x x; x x]
+m9 B_in: [x x; x x]
+m9 C_out: [x x; x x]
+m10 A_in: [x x; x x]
+m10 B_in: [x x; x x]
+m10 C_out: [x x; x x]
+m11 A_in: [x x; x x]
+m11 B_in: [x x; x x]
+m11 C_out: [x x; x x]
+m12 A_in: [x x; x x]
+m12 B_in: [x x; x x]
+m12 C_out: [x x; x x]
+m13 A_in: [x x; x x]
+m13 B_in: [x x; x x]
+m13 C_out: [x x; x x]
+m14 A_in: [x x; x x]
+m14 B_in: [x x; x x]
+m14 C_out: [x x; x x]
+m15 A_in: [x x; x x]
+m15 B_in: [x x; x x]
+m15 C_out: [x x; x x]
+m16 A_in: [x x; x x]
+m16 B_in: [x x; x x]
+m16 C_out: [x x; x x]
+m17 A_in: [x x; x x]
+m17 B_in: [x x; x x]
+m17 C_out: [x x; x x]
+m18 A_in: [x x; x x]
+m18 B_in: [x x; x x]
+m18 C_out: [x x; x x]
+m19 A_in: [x x; x x]
+m19 B_in: [x x; x x]
+m19 C_out: [x x; x x]
+m20 A_in: [x x; x x]
+m20 B_in: [x x; x x]
+m20 C_out: [x x; x x]
+m21 A_in: [x x; x x]
+m21 B_in: [x x; x x]
+m21 C_out: [x x; x x]
+m22 A_in: [x x; x x]
+m22 B_in: [x x; x x]
+m22 C_out: [x x; x x]
+m23 A_in: [x x; x x]
+m23 B_in: [x x; x x]
+m23 C_out: [x x; x x]
+m24 A_in: [x x; x x]
+m24 B_in: [x x; x x]
+m24 C_out: [x x; x x]
+m25 A_in: [x x; x x]
+m25 B_in: [x x; x x]
+m25 C_out: [x x; x x]
+m26 A_in: [x x; x x]
+m26 B_in: [x x; x x]
+m26 C_out: [x x; x x]
+m27 A_in: [x x; x x]
+m27 B_in: [x x; x x]
+m27 C_out: [x x; x x]
+m28 A_in: [x x; x x]
+m28 B_in: [x x; x x]
+m28 C_out: [x x; x x]
+m29 A_in: [x x; x x]
+m29 B_in: [x x; x x]
+m29 C_out: [x x; x x]
+m30 A_in: [x x; x x]
+m30 B_in: [x x; x x]
+m30 C_out: [x x; x x]
+m31 A_in: [x x; x x]
+m31 B_in: [x x; x x]
+m31 C_out: [x x; x x]
+m32 A_in: [x x; x x]
+m32 B_in: [x x; x x]
+m32 C_out: [x x; x x]
+m33 A_in: [x x; x x]
+m33 B_in: [x x; x x]
+m33 C_out: [x x; x x]
+m34 A_in: [x x; x x]
+m34 B_in: [x x; x x]
+m34 C_out: [x x; x x]
+m35 A_in: [x x; x x]
+m35 B_in: [x x; x x]
+m35 C_out: [x x; x x]
+m36 A_in: [x x; x x]
+m36 B_in: [x x; x x]
+m36 C_out: [x x; x x]
+m37 A_in: [x x; x x]
+m37 B_in: [x x; x x]
+m37 C_out: [x x; x x]
+m38 A_in: [x x; x x]
+m38 B_in: [x x; x x]
+m38 C_out: [x x; x x]
+m39 A_in: [x x; x x]
+m39 B_in: [x x; x x]
+m39 C_out: [x x; x x]
+m40 A_in: [x x; x x]
+m40 B_in: [x x; x x]
+m40 C_out: [x x; x x]
+m41 A_in: [x x; x x]
+m41 B_in: [x x; x x]
+m41 C_out: [x x; x x]
+m42 A_in: [x x; x x]
+m42 B_in: [x x; x x]
+m42 C_out: [x x; x x]
+m43 A_in: [x x; x x]
+m43 B_in: [x x; x x]
+m43 C_out: [x x; x x]
+m44 A_in: [x x; x x]
+m44 B_in: [x x; x x]
+m44 C_out: [x x; x x]
+m45 A_in: [x x; x x]
+m45 B_in: [x x; x x]
+m45 C_out: [x x; x x]
+m46 A_in: [x x; x x]
+m46 B_in: [x x; x x]
+m46 C_out: [x x; x x]
+m47 A_in: [x x; x x]
+m47 B_in: [x x; x x]
+m47 C_out: [x x; x x]
+m48 A_in: [x x; x x]
+m48 B_in: [x x; x x]
+m48 C_out: [x x; x x]
+m49 A_in: [x x; x x]
+m49 B_in: [x x; x x]
+m49 C_out: [x x; x x]
+m50 A_in: [x x; x x]
+m50 B_in: [x x; x x]
+m50 C_out: [x x; x x]
+m51 A_in: [x x; x x]
+m51 B_in: [x x; x x]
+m51 C_out: [x x; x x]
+m52 A_in: [x x; x x]
+m52 B_in: [x x; x x]
+m52 C_out: [x x; x x]
+m53 A_in: [x x; x x]
+m53 B_in: [x x; x x]
+m53 C_out: [x x; x x]
+m54 A_in: [x x; x x]
+m54 B_in: [x x; x x]
+m54 C_out: [x x; x x]
+m55 A_in: [x x; x x]
+m55 B_in: [x x; x x]
+m55 C_out: [x x; x x]
+m56 A_in: [x x; x x]
+m56 B_in: [x x; x x]
+m56 C_out: [x x; x x]
+m57 A_in: [x x; x x]
+m57 B_in: [x x; x x]
+m57 C_out: [x x; x x]
+m58 A_in: [x x; x x]
+m58 B_in: [x x; x x]
+m58 C_out: [x x; x x]
+m59 A_in: [x x; x x]
+m59 B_in: [x x; x x]
+m59 C_out: [x x; x x]
+m60 A_in: [x x; x x]
+m60 B_in: [x x; x x]
+m60 C_out: [x x; x x]
+m61 A_in: [x x; x x]
+m61 B_in: [x x; x x]
+m61 C_out: [x x; x x]
+m62 A_in: [x x; x x]
+m62 B_in: [x x; x x]
+m62 C_out: [x x; x x]
+m63 A_in: [x x; x x]
+m63 B_in: [x x; x x]
+m63 C_out: [x x; x x]
+TB Matrix A:
+  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 
+  1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 
+  2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 
+  3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+  4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 
+  5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 
+  6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 
+  7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 
+  8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 
+  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 
+  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 
+  11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 
+  12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 
+  13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 
+  14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 
+  15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 
+TB Matrix B:
+  1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+TB Matrix C:
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+-----------------------------------------------------
+TB Time 25000 | rst=0 start=1 done=0
+----- Multipliers inputs and outputs at time 25000 (state 0) (pass_j 0)-----
+m0 A_in: [x x; x x]
+m0 B_in: [x x; x x]
+m0 C_out: [x x; x x]
+m1 A_in: [x x; x x]
+m1 B_in: [x x; x x]
+m1 C_out: [x x; x x]
+m2 A_in: [x x; x x]
+m2 B_in: [x x; x x]
+m2 C_out: [x x; x x]
+m3 A_in: [x x; x x]
+m3 B_in: [x x; x x]
+m3 C_out: [x x; x x]
+m4 A_in: [x x; x x]
+m4 B_in: [x x; x x]
+m4 C_out: [x x; x x]
+m5 A_in: [x x; x x]
+m5 B_in: [x x; x x]
+m5 C_out: [x x; x x]
+m6 A_in: [x x; x x]
+m6 B_in: [x x; x x]
+m6 C_out: [x x; x x]
+m7 A_in: [x x; x x]
+m7 B_in: [x x; x x]
+m7 C_out: [x x; x x]
+m8 A_in: [x x; x x]
+m8 B_in: [x x; x x]
+m8 C_out: [x x; x x]
+m9 A_in: [x x; x x]
+m9 B_in: [x x; x x]
+m9 C_out: [x x; x x]
+m10 A_in: [x x; x x]
+m10 B_in: [x x; x x]
+m10 C_out: [x x; x x]
+m11 A_in: [x x; x x]
+m11 B_in: [x x; x x]
+m11 C_out: [x x; x x]
+m12 A_in: [x x; x x]
+m12 B_in: [x x; x x]
+m12 C_out: [x x; x x]
+m13 A_in: [x x; x x]
+m13 B_in: [x x; x x]
+m13 C_out: [x x; x x]
+m14 A_in: [x x; x x]
+m14 B_in: [x x; x x]
+m14 C_out: [x x; x x]
+m15 A_in: [x x; x x]
+m15 B_in: [x x; x x]
+m15 C_out: [x x; x x]
+m16 A_in: [x x; x x]
+m16 B_in: [x x; x x]
+m16 C_out: [x x; x x]
+m17 A_in: [x x; x x]
+m17 B_in: [x x; x x]
+m17 C_out: [x x; x x]
+m18 A_in: [x x; x x]
+m18 B_in: [x x; x x]
+m18 C_out: [x x; x x]
+m19 A_in: [x x; x x]
+m19 B_in: [x x; x x]
+m19 C_out: [x x; x x]
+m20 A_in: [x x; x x]
+m20 B_in: [x x; x x]
+m20 C_out: [x x; x x]
+m21 A_in: [x x; x x]
+m21 B_in: [x x; x x]
+m21 C_out: [x x; x x]
+m22 A_in: [x x; x x]
+m22 B_in: [x x; x x]
+m22 C_out: [x x; x x]
+m23 A_in: [x x; x x]
+m23 B_in: [x x; x x]
+m23 C_out: [x x; x x]
+m24 A_in: [x x; x x]
+m24 B_in: [x x; x x]
+m24 C_out: [x x; x x]
+m25 A_in: [x x; x x]
+m25 B_in: [x x; x x]
+m25 C_out: [x x; x x]
+m26 A_in: [x x; x x]
+m26 B_in: [x x; x x]
+m26 C_out: [x x; x x]
+m27 A_in: [x x; x x]
+m27 B_in: [x x; x x]
+m27 C_out: [x x; x x]
+m28 A_in: [x x; x x]
+m28 B_in: [x x; x x]
+m28 C_out: [x x; x x]
+m29 A_in: [x x; x x]
+m29 B_in: [x x; x x]
+m29 C_out: [x x; x x]
+m30 A_in: [x x; x x]
+m30 B_in: [x x; x x]
+m30 C_out: [x x; x x]
+m31 A_in: [x x; x x]
+m31 B_in: [x x; x x]
+m31 C_out: [x x; x x]
+m32 A_in: [x x; x x]
+m32 B_in: [x x; x x]
+m32 C_out: [x x; x x]
+m33 A_in: [x x; x x]
+m33 B_in: [x x; x x]
+m33 C_out: [x x; x x]
+m34 A_in: [x x; x x]
+m34 B_in: [x x; x x]
+m34 C_out: [x x; x x]
+m35 A_in: [x x; x x]
+m35 B_in: [x x; x x]
+m35 C_out: [x x; x x]
+m36 A_in: [x x; x x]
+m36 B_in: [x x; x x]
+m36 C_out: [x x; x x]
+m37 A_in: [x x; x x]
+m37 B_in: [x x; x x]
+m37 C_out: [x x; x x]
+m38 A_in: [x x; x x]
+m38 B_in: [x x; x x]
+m38 C_out: [x x; x x]
+m39 A_in: [x x; x x]
+m39 B_in: [x x; x x]
+m39 C_out: [x x; x x]
+m40 A_in: [x x; x x]
+m40 B_in: [x x; x x]
+m40 C_out: [x x; x x]
+m41 A_in: [x x; x x]
+m41 B_in: [x x; x x]
+m41 C_out: [x x; x x]
+m42 A_in: [x x; x x]
+m42 B_in: [x x; x x]
+m42 C_out: [x x; x x]
+m43 A_in: [x x; x x]
+m43 B_in: [x x; x x]
+m43 C_out: [x x; x x]
+m44 A_in: [x x; x x]
+m44 B_in: [x x; x x]
+m44 C_out: [x x; x x]
+m45 A_in: [x x; x x]
+m45 B_in: [x x; x x]
+m45 C_out: [x x; x x]
+m46 A_in: [x x; x x]
+m46 B_in: [x x; x x]
+m46 C_out: [x x; x x]
+m47 A_in: [x x; x x]
+m47 B_in: [x x; x x]
+m47 C_out: [x x; x x]
+m48 A_in: [x x; x x]
+m48 B_in: [x x; x x]
+m48 C_out: [x x; x x]
+m49 A_in: [x x; x x]
+m49 B_in: [x x; x x]
+m49 C_out: [x x; x x]
+m50 A_in: [x x; x x]
+m50 B_in: [x x; x x]
+m50 C_out: [x x; x x]
+m51 A_in: [x x; x x]
+m51 B_in: [x x; x x]
+m51 C_out: [x x; x x]
+m52 A_in: [x x; x x]
+m52 B_in: [x x; x x]
+m52 C_out: [x x; x x]
+m53 A_in: [x x; x x]
+m53 B_in: [x x; x x]
+m53 C_out: [x x; x x]
+m54 A_in: [x x; x x]
+m54 B_in: [x x; x x]
+m54 C_out: [x x; x x]
+m55 A_in: [x x; x x]
+m55 B_in: [x x; x x]
+m55 C_out: [x x; x x]
+m56 A_in: [x x; x x]
+m56 B_in: [x x; x x]
+m56 C_out: [x x; x x]
+m57 A_in: [x x; x x]
+m57 B_in: [x x; x x]
+m57 C_out: [x x; x x]
+m58 A_in: [x x; x x]
+m58 B_in: [x x; x x]
+m58 C_out: [x x; x x]
+m59 A_in: [x x; x x]
+m59 B_in: [x x; x x]
+m59 C_out: [x x; x x]
+m60 A_in: [x x; x x]
+m60 B_in: [x x; x x]
+m60 C_out: [x x; x x]
+m61 A_in: [x x; x x]
+m61 B_in: [x x; x x]
+m61 C_out: [x x; x x]
+m62 A_in: [x x; x x]
+m62 B_in: [x x; x x]
+m62 C_out: [x x; x x]
+m63 A_in: [x x; x x]
+m63 B_in: [x x; x x]
+m63 C_out: [x x; x x]
+TB Matrix A:
+  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 
+  1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 
+  2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 
+  3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+  4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 
+  5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 
+  6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 
+  7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 
+  8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 
+  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 
+  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 
+  11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 
+  12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 
+  13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 
+  14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 
+  15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 
+TB Matrix B:
+  1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+TB Matrix C:
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+-----------------------------------------------------
+TB Time 35000 | rst=0 start=1 done=0
+----- Multipliers inputs and outputs at time 35000 (state 1) (pass_j 0)-----
+m0 A_in: [0 1; 1 2]
+m0 B_in: [1 0; 0 1]
+m0 C_out: [0 1; 1 2]
+m1 A_in: [0 1; 1 2]
+m1 B_in: [0 0; 0 0]
+m1 C_out: [0 0; 0 0]
+m2 A_in: [0 1; 1 2]
+m2 B_in: [0 0; 0 0]
+m2 C_out: [0 0; 0 0]
+m3 A_in: [0 1; 1 2]
+m3 B_in: [0 0; 0 0]
+m3 C_out: [0 0; 0 0]
+m4 A_in: [0 1; 1 2]
+m4 B_in: [0 0; 0 0]
+m4 C_out: [0 0; 0 0]
+m5 A_in: [0 1; 1 2]
+m5 B_in: [0 0; 0 0]
+m5 C_out: [0 0; 0 0]
+m6 A_in: [0 1; 1 2]
+m6 B_in: [0 0; 0 0]
+m6 C_out: [0 0; 0 0]
+m7 A_in: [0 1; 1 2]
+m7 B_in: [0 0; 0 0]
+m7 C_out: [0 0; 0 0]
+m8 A_in: [2 3; 3 4]
+m8 B_in: [1 0; 0 1]
+m8 C_out: [2 3; 3 4]
+m9 A_in: [2 3; 3 4]
+m9 B_in: [0 0; 0 0]
+m9 C_out: [0 0; 0 0]
+m10 A_in: [2 3; 3 4]
+m10 B_in: [0 0; 0 0]
+m10 C_out: [0 0; 0 0]
+m11 A_in: [2 3; 3 4]
+m11 B_in: [0 0; 0 0]
+m11 C_out: [0 0; 0 0]
+m12 A_in: [2 3; 3 4]
+m12 B_in: [0 0; 0 0]
+m12 C_out: [0 0; 0 0]
+m13 A_in: [2 3; 3 4]
+m13 B_in: [0 0; 0 0]
+m13 C_out: [0 0; 0 0]
+m14 A_in: [2 3; 3 4]
+m14 B_in: [0 0; 0 0]
+m14 C_out: [0 0; 0 0]
+m15 A_in: [2 3; 3 4]
+m15 B_in: [0 0; 0 0]
+m15 C_out: [0 0; 0 0]
+m16 A_in: [4 5; 5 6]
+m16 B_in: [1 0; 0 1]
+m16 C_out: [4 5; 5 6]
+m17 A_in: [4 5; 5 6]
+m17 B_in: [0 0; 0 0]
+m17 C_out: [0 0; 0 0]
+m18 A_in: [4 5; 5 6]
+m18 B_in: [0 0; 0 0]
+m18 C_out: [0 0; 0 0]
+m19 A_in: [4 5; 5 6]
+m19 B_in: [0 0; 0 0]
+m19 C_out: [0 0; 0 0]
+m20 A_in: [4 5; 5 6]
+m20 B_in: [0 0; 0 0]
+m20 C_out: [0 0; 0 0]
+m21 A_in: [4 5; 5 6]
+m21 B_in: [0 0; 0 0]
+m21 C_out: [0 0; 0 0]
+m22 A_in: [4 5; 5 6]
+m22 B_in: [0 0; 0 0]
+m22 C_out: [0 0; 0 0]
+m23 A_in: [4 5; 5 6]
+m23 B_in: [0 0; 0 0]
+m23 C_out: [0 0; 0 0]
+m24 A_in: [6 7; 7 8]
+m24 B_in: [1 0; 0 1]
+m24 C_out: [6 7; 7 8]
+m25 A_in: [6 7; 7 8]
+m25 B_in: [0 0; 0 0]
+m25 C_out: [0 0; 0 0]
+m26 A_in: [6 7; 7 8]
+m26 B_in: [0 0; 0 0]
+m26 C_out: [0 0; 0 0]
+m27 A_in: [6 7; 7 8]
+m27 B_in: [0 0; 0 0]
+m27 C_out: [0 0; 0 0]
+m28 A_in: [6 7; 7 8]
+m28 B_in: [0 0; 0 0]
+m28 C_out: [0 0; 0 0]
+m29 A_in: [6 7; 7 8]
+m29 B_in: [0 0; 0 0]
+m29 C_out: [0 0; 0 0]
+m30 A_in: [6 7; 7 8]
+m30 B_in: [0 0; 0 0]
+m30 C_out: [0 0; 0 0]
+m31 A_in: [6 7; 7 8]
+m31 B_in: [0 0; 0 0]
+m31 C_out: [0 0; 0 0]
+m32 A_in: [8 9; 9 10]
+m32 B_in: [1 0; 0 1]
+m32 C_out: [8 9; 9 10]
+m33 A_in: [8 9; 9 10]
+m33 B_in: [0 0; 0 0]
+m33 C_out: [0 0; 0 0]
+m34 A_in: [8 9; 9 10]
+m34 B_in: [0 0; 0 0]
+m34 C_out: [0 0; 0 0]
+m35 A_in: [8 9; 9 10]
+m35 B_in: [0 0; 0 0]
+m35 C_out: [0 0; 0 0]
+m36 A_in: [8 9; 9 10]
+m36 B_in: [0 0; 0 0]
+m36 C_out: [0 0; 0 0]
+m37 A_in: [8 9; 9 10]
+m37 B_in: [0 0; 0 0]
+m37 C_out: [0 0; 0 0]
+m38 A_in: [8 9; 9 10]
+m38 B_in: [0 0; 0 0]
+m38 C_out: [0 0; 0 0]
+m39 A_in: [8 9; 9 10]
+m39 B_in: [0 0; 0 0]
+m39 C_out: [0 0; 0 0]
+m40 A_in: [10 11; 11 12]
+m40 B_in: [1 0; 0 1]
+m40 C_out: [10 11; 11 12]
+m41 A_in: [10 11; 11 12]
+m41 B_in: [0 0; 0 0]
+m41 C_out: [0 0; 0 0]
+m42 A_in: [10 11; 11 12]
+m42 B_in: [0 0; 0 0]
+m42 C_out: [0 0; 0 0]
+m43 A_in: [10 11; 11 12]
+m43 B_in: [0 0; 0 0]
+m43 C_out: [0 0; 0 0]
+m44 A_in: [10 11; 11 12]
+m44 B_in: [0 0; 0 0]
+m44 C_out: [0 0; 0 0]
+m45 A_in: [10 11; 11 12]
+m45 B_in: [0 0; 0 0]
+m45 C_out: [0 0; 0 0]
+m46 A_in: [10 11; 11 12]
+m46 B_in: [0 0; 0 0]
+m46 C_out: [0 0; 0 0]
+m47 A_in: [10 11; 11 12]
+m47 B_in: [0 0; 0 0]
+m47 C_out: [0 0; 0 0]
+m48 A_in: [12 13; 13 14]
+m48 B_in: [1 0; 0 1]
+m48 C_out: [12 13; 13 14]
+m49 A_in: [12 13; 13 14]
+m49 B_in: [0 0; 0 0]
+m49 C_out: [0 0; 0 0]
+m50 A_in: [12 13; 13 14]
+m50 B_in: [0 0; 0 0]
+m50 C_out: [0 0; 0 0]
+m51 A_in: [12 13; 13 14]
+m51 B_in: [0 0; 0 0]
+m51 C_out: [0 0; 0 0]
+m52 A_in: [12 13; 13 14]
+m52 B_in: [0 0; 0 0]
+m52 C_out: [0 0; 0 0]
+m53 A_in: [12 13; 13 14]
+m53 B_in: [0 0; 0 0]
+m53 C_out: [0 0; 0 0]
+m54 A_in: [12 13; 13 14]
+m54 B_in: [0 0; 0 0]
+m54 C_out: [0 0; 0 0]
+m55 A_in: [12 13; 13 14]
+m55 B_in: [0 0; 0 0]
+m55 C_out: [0 0; 0 0]
+m56 A_in: [14 15; 15 16]
+m56 B_in: [1 0; 0 1]
+m56 C_out: [14 15; 15 16]
+m57 A_in: [14 15; 15 16]
+m57 B_in: [0 0; 0 0]
+m57 C_out: [0 0; 0 0]
+m58 A_in: [14 15; 15 16]
+m58 B_in: [0 0; 0 0]
+m58 C_out: [0 0; 0 0]
+m59 A_in: [14 15; 15 16]
+m59 B_in: [0 0; 0 0]
+m59 C_out: [0 0; 0 0]
+m60 A_in: [14 15; 15 16]
+m60 B_in: [0 0; 0 0]
+m60 C_out: [0 0; 0 0]
+m61 A_in: [14 15; 15 16]
+m61 B_in: [0 0; 0 0]
+m61 C_out: [0 0; 0 0]
+m62 A_in: [14 15; 15 16]
+m62 B_in: [0 0; 0 0]
+m62 C_out: [0 0; 0 0]
+m63 A_in: [14 15; 15 16]
+m63 B_in: [0 0; 0 0]
+m63 C_out: [0 0; 0 0]
+TB Matrix A:
+  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 
+  1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 
+  2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 
+  3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+  4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 
+  5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 
+  6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 
+  7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 
+  8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 
+  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 
+  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 
+  11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 
+  12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 
+  13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 
+  14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 
+  15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 
+TB Matrix B:
+  1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+TB Matrix C:
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+-----------------------------------------------------
+TB Time 45000 | rst=0 start=1 done=0
+----- Multipliers inputs and outputs at time 45000 (state 0) (pass_j 1)-----
+m0 A_in: [0 1; 1 2]
+m0 B_in: [1 0; 0 1]
+m0 C_out: [0 1; 1 2]
+m1 A_in: [0 1; 1 2]
+m1 B_in: [0 0; 0 0]
+m1 C_out: [0 0; 0 0]
+m2 A_in: [0 1; 1 2]
+m2 B_in: [0 0; 0 0]
+m2 C_out: [0 0; 0 0]
+m3 A_in: [0 1; 1 2]
+m3 B_in: [0 0; 0 0]
+m3 C_out: [0 0; 0 0]
+m4 A_in: [0 1; 1 2]
+m4 B_in: [0 0; 0 0]
+m4 C_out: [0 0; 0 0]
+m5 A_in: [0 1; 1 2]
+m5 B_in: [0 0; 0 0]
+m5 C_out: [0 0; 0 0]
+m6 A_in: [0 1; 1 2]
+m6 B_in: [0 0; 0 0]
+m6 C_out: [0 0; 0 0]
+m7 A_in: [0 1; 1 2]
+m7 B_in: [0 0; 0 0]
+m7 C_out: [0 0; 0 0]
+m8 A_in: [2 3; 3 4]
+m8 B_in: [1 0; 0 1]
+m8 C_out: [2 3; 3 4]
+m9 A_in: [2 3; 3 4]
+m9 B_in: [0 0; 0 0]
+m9 C_out: [0 0; 0 0]
+m10 A_in: [2 3; 3 4]
+m10 B_in: [0 0; 0 0]
+m10 C_out: [0 0; 0 0]
+m11 A_in: [2 3; 3 4]
+m11 B_in: [0 0; 0 0]
+m11 C_out: [0 0; 0 0]
+m12 A_in: [2 3; 3 4]
+m12 B_in: [0 0; 0 0]
+m12 C_out: [0 0; 0 0]
+m13 A_in: [2 3; 3 4]
+m13 B_in: [0 0; 0 0]
+m13 C_out: [0 0; 0 0]
+m14 A_in: [2 3; 3 4]
+m14 B_in: [0 0; 0 0]
+m14 C_out: [0 0; 0 0]
+m15 A_in: [2 3; 3 4]
+m15 B_in: [0 0; 0 0]
+m15 C_out: [0 0; 0 0]
+m16 A_in: [4 5; 5 6]
+m16 B_in: [1 0; 0 1]
+m16 C_out: [4 5; 5 6]
+m17 A_in: [4 5; 5 6]
+m17 B_in: [0 0; 0 0]
+m17 C_out: [0 0; 0 0]
+m18 A_in: [4 5; 5 6]
+m18 B_in: [0 0; 0 0]
+m18 C_out: [0 0; 0 0]
+m19 A_in: [4 5; 5 6]
+m19 B_in: [0 0; 0 0]
+m19 C_out: [0 0; 0 0]
+m20 A_in: [4 5; 5 6]
+m20 B_in: [0 0; 0 0]
+m20 C_out: [0 0; 0 0]
+m21 A_in: [4 5; 5 6]
+m21 B_in: [0 0; 0 0]
+m21 C_out: [0 0; 0 0]
+m22 A_in: [4 5; 5 6]
+m22 B_in: [0 0; 0 0]
+m22 C_out: [0 0; 0 0]
+m23 A_in: [4 5; 5 6]
+m23 B_in: [0 0; 0 0]
+m23 C_out: [0 0; 0 0]
+m24 A_in: [6 7; 7 8]
+m24 B_in: [1 0; 0 1]
+m24 C_out: [6 7; 7 8]
+m25 A_in: [6 7; 7 8]
+m25 B_in: [0 0; 0 0]
+m25 C_out: [0 0; 0 0]
+m26 A_in: [6 7; 7 8]
+m26 B_in: [0 0; 0 0]
+m26 C_out: [0 0; 0 0]
+m27 A_in: [6 7; 7 8]
+m27 B_in: [0 0; 0 0]
+m27 C_out: [0 0; 0 0]
+m28 A_in: [6 7; 7 8]
+m28 B_in: [0 0; 0 0]
+m28 C_out: [0 0; 0 0]
+m29 A_in: [6 7; 7 8]
+m29 B_in: [0 0; 0 0]
+m29 C_out: [0 0; 0 0]
+m30 A_in: [6 7; 7 8]
+m30 B_in: [0 0; 0 0]
+m30 C_out: [0 0; 0 0]
+m31 A_in: [6 7; 7 8]
+m31 B_in: [0 0; 0 0]
+m31 C_out: [0 0; 0 0]
+m32 A_in: [8 9; 9 10]
+m32 B_in: [1 0; 0 1]
+m32 C_out: [8 9; 9 10]
+m33 A_in: [8 9; 9 10]
+m33 B_in: [0 0; 0 0]
+m33 C_out: [0 0; 0 0]
+m34 A_in: [8 9; 9 10]
+m34 B_in: [0 0; 0 0]
+m34 C_out: [0 0; 0 0]
+m35 A_in: [8 9; 9 10]
+m35 B_in: [0 0; 0 0]
+m35 C_out: [0 0; 0 0]
+m36 A_in: [8 9; 9 10]
+m36 B_in: [0 0; 0 0]
+m36 C_out: [0 0; 0 0]
+m37 A_in: [8 9; 9 10]
+m37 B_in: [0 0; 0 0]
+m37 C_out: [0 0; 0 0]
+m38 A_in: [8 9; 9 10]
+m38 B_in: [0 0; 0 0]
+m38 C_out: [0 0; 0 0]
+m39 A_in: [8 9; 9 10]
+m39 B_in: [0 0; 0 0]
+m39 C_out: [0 0; 0 0]
+m40 A_in: [10 11; 11 12]
+m40 B_in: [1 0; 0 1]
+m40 C_out: [10 11; 11 12]
+m41 A_in: [10 11; 11 12]
+m41 B_in: [0 0; 0 0]
+m41 C_out: [0 0; 0 0]
+m42 A_in: [10 11; 11 12]
+m42 B_in: [0 0; 0 0]
+m42 C_out: [0 0; 0 0]
+m43 A_in: [10 11; 11 12]
+m43 B_in: [0 0; 0 0]
+m43 C_out: [0 0; 0 0]
+m44 A_in: [10 11; 11 12]
+m44 B_in: [0 0; 0 0]
+m44 C_out: [0 0; 0 0]
+m45 A_in: [10 11; 11 12]
+m45 B_in: [0 0; 0 0]
+m45 C_out: [0 0; 0 0]
+m46 A_in: [10 11; 11 12]
+m46 B_in: [0 0; 0 0]
+m46 C_out: [0 0; 0 0]
+m47 A_in: [10 11; 11 12]
+m47 B_in: [0 0; 0 0]
+m47 C_out: [0 0; 0 0]
+m48 A_in: [12 13; 13 14]
+m48 B_in: [1 0; 0 1]
+m48 C_out: [12 13; 13 14]
+m49 A_in: [12 13; 13 14]
+m49 B_in: [0 0; 0 0]
+m49 C_out: [0 0; 0 0]
+m50 A_in: [12 13; 13 14]
+m50 B_in: [0 0; 0 0]
+m50 C_out: [0 0; 0 0]
+m51 A_in: [12 13; 13 14]
+m51 B_in: [0 0; 0 0]
+m51 C_out: [0 0; 0 0]
+m52 A_in: [12 13; 13 14]
+m52 B_in: [0 0; 0 0]
+m52 C_out: [0 0; 0 0]
+m53 A_in: [12 13; 13 14]
+m53 B_in: [0 0; 0 0]
+m53 C_out: [0 0; 0 0]
+m54 A_in: [12 13; 13 14]
+m54 B_in: [0 0; 0 0]
+m54 C_out: [0 0; 0 0]
+m55 A_in: [12 13; 13 14]
+m55 B_in: [0 0; 0 0]
+m55 C_out: [0 0; 0 0]
+m56 A_in: [14 15; 15 16]
+m56 B_in: [1 0; 0 1]
+m56 C_out: [14 15; 15 16]
+m57 A_in: [14 15; 15 16]
+m57 B_in: [0 0; 0 0]
+m57 C_out: [0 0; 0 0]
+m58 A_in: [14 15; 15 16]
+m58 B_in: [0 0; 0 0]
+m58 C_out: [0 0; 0 0]
+m59 A_in: [14 15; 15 16]
+m59 B_in: [0 0; 0 0]
+m59 C_out: [0 0; 0 0]
+m60 A_in: [14 15; 15 16]
+m60 B_in: [0 0; 0 0]
+m60 C_out: [0 0; 0 0]
+m61 A_in: [14 15; 15 16]
+m61 B_in: [0 0; 0 0]
+m61 C_out: [0 0; 0 0]
+m62 A_in: [14 15; 15 16]
+m62 B_in: [0 0; 0 0]
+m62 C_out: [0 0; 0 0]
+m63 A_in: [14 15; 15 16]
+m63 B_in: [0 0; 0 0]
+m63 C_out: [0 0; 0 0]
+TB Matrix A:
+  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 
+  1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 
+  2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 
+  3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+  4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 
+  5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 
+  6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 
+  7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 
+  8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 
+  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 
+  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 
+  11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 
+  12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 
+  13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 
+  14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 
+  15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 
+TB Matrix B:
+  1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+TB Matrix C:
+  0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  1 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  2 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  3 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  4 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  5 6 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  6 7 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  7 8 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  8 9 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  9 10 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  10 11 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  11 12 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  12 13 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  13 14 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  14 15 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  15 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+-----------------------------------------------------
+TB Time 55000 | rst=0 start=1 done=0
+----- Multipliers inputs and outputs at time 55000 (state 1) (pass_j 1)-----
+m0 A_in: [2 3; 3 4]
+m0 B_in: [0 0; 0 0]
+m0 C_out: [0 0; 0 0]
+m1 A_in: [2 3; 3 4]
+m1 B_in: [1 0; 0 1]
+m1 C_out: [2 3; 3 4]
+m2 A_in: [2 3; 3 4]
+m2 B_in: [0 0; 0 0]
+m2 C_out: [0 0; 0 0]
+m3 A_in: [2 3; 3 4]
+m3 B_in: [0 0; 0 0]
+m3 C_out: [0 0; 0 0]
+m4 A_in: [2 3; 3 4]
+m4 B_in: [0 0; 0 0]
+m4 C_out: [0 0; 0 0]
+m5 A_in: [2 3; 3 4]
+m5 B_in: [0 0; 0 0]
+m5 C_out: [0 0; 0 0]
+m6 A_in: [2 3; 3 4]
+m6 B_in: [0 0; 0 0]
+m6 C_out: [0 0; 0 0]
+m7 A_in: [2 3; 3 4]
+m7 B_in: [0 0; 0 0]
+m7 C_out: [0 0; 0 0]
+m8 A_in: [4 5; 5 6]
+m8 B_in: [0 0; 0 0]
+m8 C_out: [0 0; 0 0]
+m9 A_in: [4 5; 5 6]
+m9 B_in: [1 0; 0 1]
+m9 C_out: [4 5; 5 6]
+m10 A_in: [4 5; 5 6]
+m10 B_in: [0 0; 0 0]
+m10 C_out: [0 0; 0 0]
+m11 A_in: [4 5; 5 6]
+m11 B_in: [0 0; 0 0]
+m11 C_out: [0 0; 0 0]
+m12 A_in: [4 5; 5 6]
+m12 B_in: [0 0; 0 0]
+m12 C_out: [0 0; 0 0]
+m13 A_in: [4 5; 5 6]
+m13 B_in: [0 0; 0 0]
+m13 C_out: [0 0; 0 0]
+m14 A_in: [4 5; 5 6]
+m14 B_in: [0 0; 0 0]
+m14 C_out: [0 0; 0 0]
+m15 A_in: [4 5; 5 6]
+m15 B_in: [0 0; 0 0]
+m15 C_out: [0 0; 0 0]
+m16 A_in: [6 7; 7 8]
+m16 B_in: [0 0; 0 0]
+m16 C_out: [0 0; 0 0]
+m17 A_in: [6 7; 7 8]
+m17 B_in: [1 0; 0 1]
+m17 C_out: [6 7; 7 8]
+m18 A_in: [6 7; 7 8]
+m18 B_in: [0 0; 0 0]
+m18 C_out: [0 0; 0 0]
+m19 A_in: [6 7; 7 8]
+m19 B_in: [0 0; 0 0]
+m19 C_out: [0 0; 0 0]
+m20 A_in: [6 7; 7 8]
+m20 B_in: [0 0; 0 0]
+m20 C_out: [0 0; 0 0]
+m21 A_in: [6 7; 7 8]
+m21 B_in: [0 0; 0 0]
+m21 C_out: [0 0; 0 0]
+m22 A_in: [6 7; 7 8]
+m22 B_in: [0 0; 0 0]
+m22 C_out: [0 0; 0 0]
+m23 A_in: [6 7; 7 8]
+m23 B_in: [0 0; 0 0]
+m23 C_out: [0 0; 0 0]
+m24 A_in: [8 9; 9 10]
+m24 B_in: [0 0; 0 0]
+m24 C_out: [0 0; 0 0]
+m25 A_in: [8 9; 9 10]
+m25 B_in: [1 0; 0 1]
+m25 C_out: [8 9; 9 10]
+m26 A_in: [8 9; 9 10]
+m26 B_in: [0 0; 0 0]
+m26 C_out: [0 0; 0 0]
+m27 A_in: [8 9; 9 10]
+m27 B_in: [0 0; 0 0]
+m27 C_out: [0 0; 0 0]
+m28 A_in: [8 9; 9 10]
+m28 B_in: [0 0; 0 0]
+m28 C_out: [0 0; 0 0]
+m29 A_in: [8 9; 9 10]
+m29 B_in: [0 0; 0 0]
+m29 C_out: [0 0; 0 0]
+m30 A_in: [8 9; 9 10]
+m30 B_in: [0 0; 0 0]
+m30 C_out: [0 0; 0 0]
+m31 A_in: [8 9; 9 10]
+m31 B_in: [0 0; 0 0]
+m31 C_out: [0 0; 0 0]
+m32 A_in: [10 11; 11 12]
+m32 B_in: [0 0; 0 0]
+m32 C_out: [0 0; 0 0]
+m33 A_in: [10 11; 11 12]
+m33 B_in: [1 0; 0 1]
+m33 C_out: [10 11; 11 12]
+m34 A_in: [10 11; 11 12]
+m34 B_in: [0 0; 0 0]
+m34 C_out: [0 0; 0 0]
+m35 A_in: [10 11; 11 12]
+m35 B_in: [0 0; 0 0]
+m35 C_out: [0 0; 0 0]
+m36 A_in: [10 11; 11 12]
+m36 B_in: [0 0; 0 0]
+m36 C_out: [0 0; 0 0]
+m37 A_in: [10 11; 11 12]
+m37 B_in: [0 0; 0 0]
+m37 C_out: [0 0; 0 0]
+m38 A_in: [10 11; 11 12]
+m38 B_in: [0 0; 0 0]
+m38 C_out: [0 0; 0 0]
+m39 A_in: [10 11; 11 12]
+m39 B_in: [0 0; 0 0]
+m39 C_out: [0 0; 0 0]
+m40 A_in: [12 13; 13 14]
+m40 B_in: [0 0; 0 0]
+m40 C_out: [0 0; 0 0]
+m41 A_in: [12 13; 13 14]
+m41 B_in: [1 0; 0 1]
+m41 C_out: [12 13; 13 14]
+m42 A_in: [12 13; 13 14]
+m42 B_in: [0 0; 0 0]
+m42 C_out: [0 0; 0 0]
+m43 A_in: [12 13; 13 14]
+m43 B_in: [0 0; 0 0]
+m43 C_out: [0 0; 0 0]
+m44 A_in: [12 13; 13 14]
+m44 B_in: [0 0; 0 0]
+m44 C_out: [0 0; 0 0]
+m45 A_in: [12 13; 13 14]
+m45 B_in: [0 0; 0 0]
+m45 C_out: [0 0; 0 0]
+m46 A_in: [12 13; 13 14]
+m46 B_in: [0 0; 0 0]
+m46 C_out: [0 0; 0 0]
+m47 A_in: [12 13; 13 14]
+m47 B_in: [0 0; 0 0]
+m47 C_out: [0 0; 0 0]
+m48 A_in: [14 15; 15 16]
+m48 B_in: [0 0; 0 0]
+m48 C_out: [0 0; 0 0]
+m49 A_in: [14 15; 15 16]
+m49 B_in: [1 0; 0 1]
+m49 C_out: [14 15; 15 16]
+m50 A_in: [14 15; 15 16]
+m50 B_in: [0 0; 0 0]
+m50 C_out: [0 0; 0 0]
+m51 A_in: [14 15; 15 16]
+m51 B_in: [0 0; 0 0]
+m51 C_out: [0 0; 0 0]
+m52 A_in: [14 15; 15 16]
+m52 B_in: [0 0; 0 0]
+m52 C_out: [0 0; 0 0]
+m53 A_in: [14 15; 15 16]
+m53 B_in: [0 0; 0 0]
+m53 C_out: [0 0; 0 0]
+m54 A_in: [14 15; 15 16]
+m54 B_in: [0 0; 0 0]
+m54 C_out: [0 0; 0 0]
+m55 A_in: [14 15; 15 16]
+m55 B_in: [0 0; 0 0]
+m55 C_out: [0 0; 0 0]
+m56 A_in: [16 17; 17 18]
+m56 B_in: [0 0; 0 0]
+m56 C_out: [0 0; 0 0]
+m57 A_in: [16 17; 17 18]
+m57 B_in: [1 0; 0 1]
+m57 C_out: [16 17; 17 18]
+m58 A_in: [16 17; 17 18]
+m58 B_in: [0 0; 0 0]
+m58 C_out: [0 0; 0 0]
+m59 A_in: [16 17; 17 18]
+m59 B_in: [0 0; 0 0]
+m59 C_out: [0 0; 0 0]
+m60 A_in: [16 17; 17 18]
+m60 B_in: [0 0; 0 0]
+m60 C_out: [0 0; 0 0]
+m61 A_in: [16 17; 17 18]
+m61 B_in: [0 0; 0 0]
+m61 C_out: [0 0; 0 0]
+m62 A_in: [16 17; 17 18]
+m62 B_in: [0 0; 0 0]
+m62 C_out: [0 0; 0 0]
+m63 A_in: [16 17; 17 18]
+m63 B_in: [0 0; 0 0]
+m63 C_out: [0 0; 0 0]
+TB Matrix A:
+  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 
+  1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 
+  2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 
+  3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+  4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 
+  5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 
+  6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 
+  7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 
+  8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 
+  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 
+  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 
+  11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 
+  12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 
+  13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 
+  14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 
+  15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 
+TB Matrix B:
+  1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+TB Matrix C:
+  0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  1 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  2 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  3 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  4 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  5 6 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  6 7 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  7 8 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  8 9 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  9 10 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  10 11 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  11 12 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  12 13 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  13 14 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  14 15 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  15 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+-----------------------------------------------------
+TB Time 65000 | rst=0 start=1 done=0
+----- Multipliers inputs and outputs at time 65000 (state 0) (pass_j 2)-----
+m0 A_in: [2 3; 3 4]
+m0 B_in: [0 0; 0 0]
+m0 C_out: [0 0; 0 0]
+m1 A_in: [2 3; 3 4]
+m1 B_in: [1 0; 0 1]
+m1 C_out: [2 3; 3 4]
+m2 A_in: [2 3; 3 4]
+m2 B_in: [0 0; 0 0]
+m2 C_out: [0 0; 0 0]
+m3 A_in: [2 3; 3 4]
+m3 B_in: [0 0; 0 0]
+m3 C_out: [0 0; 0 0]
+m4 A_in: [2 3; 3 4]
+m4 B_in: [0 0; 0 0]
+m4 C_out: [0 0; 0 0]
+m5 A_in: [2 3; 3 4]
+m5 B_in: [0 0; 0 0]
+m5 C_out: [0 0; 0 0]
+m6 A_in: [2 3; 3 4]
+m6 B_in: [0 0; 0 0]
+m6 C_out: [0 0; 0 0]
+m7 A_in: [2 3; 3 4]
+m7 B_in: [0 0; 0 0]
+m7 C_out: [0 0; 0 0]
+m8 A_in: [4 5; 5 6]
+m8 B_in: [0 0; 0 0]
+m8 C_out: [0 0; 0 0]
+m9 A_in: [4 5; 5 6]
+m9 B_in: [1 0; 0 1]
+m9 C_out: [4 5; 5 6]
+m10 A_in: [4 5; 5 6]
+m10 B_in: [0 0; 0 0]
+m10 C_out: [0 0; 0 0]
+m11 A_in: [4 5; 5 6]
+m11 B_in: [0 0; 0 0]
+m11 C_out: [0 0; 0 0]
+m12 A_in: [4 5; 5 6]
+m12 B_in: [0 0; 0 0]
+m12 C_out: [0 0; 0 0]
+m13 A_in: [4 5; 5 6]
+m13 B_in: [0 0; 0 0]
+m13 C_out: [0 0; 0 0]
+m14 A_in: [4 5; 5 6]
+m14 B_in: [0 0; 0 0]
+m14 C_out: [0 0; 0 0]
+m15 A_in: [4 5; 5 6]
+m15 B_in: [0 0; 0 0]
+m15 C_out: [0 0; 0 0]
+m16 A_in: [6 7; 7 8]
+m16 B_in: [0 0; 0 0]
+m16 C_out: [0 0; 0 0]
+m17 A_in: [6 7; 7 8]
+m17 B_in: [1 0; 0 1]
+m17 C_out: [6 7; 7 8]
+m18 A_in: [6 7; 7 8]
+m18 B_in: [0 0; 0 0]
+m18 C_out: [0 0; 0 0]
+m19 A_in: [6 7; 7 8]
+m19 B_in: [0 0; 0 0]
+m19 C_out: [0 0; 0 0]
+m20 A_in: [6 7; 7 8]
+m20 B_in: [0 0; 0 0]
+m20 C_out: [0 0; 0 0]
+m21 A_in: [6 7; 7 8]
+m21 B_in: [0 0; 0 0]
+m21 C_out: [0 0; 0 0]
+m22 A_in: [6 7; 7 8]
+m22 B_in: [0 0; 0 0]
+m22 C_out: [0 0; 0 0]
+m23 A_in: [6 7; 7 8]
+m23 B_in: [0 0; 0 0]
+m23 C_out: [0 0; 0 0]
+m24 A_in: [8 9; 9 10]
+m24 B_in: [0 0; 0 0]
+m24 C_out: [0 0; 0 0]
+m25 A_in: [8 9; 9 10]
+m25 B_in: [1 0; 0 1]
+m25 C_out: [8 9; 9 10]
+m26 A_in: [8 9; 9 10]
+m26 B_in: [0 0; 0 0]
+m26 C_out: [0 0; 0 0]
+m27 A_in: [8 9; 9 10]
+m27 B_in: [0 0; 0 0]
+m27 C_out: [0 0; 0 0]
+m28 A_in: [8 9; 9 10]
+m28 B_in: [0 0; 0 0]
+m28 C_out: [0 0; 0 0]
+m29 A_in: [8 9; 9 10]
+m29 B_in: [0 0; 0 0]
+m29 C_out: [0 0; 0 0]
+m30 A_in: [8 9; 9 10]
+m30 B_in: [0 0; 0 0]
+m30 C_out: [0 0; 0 0]
+m31 A_in: [8 9; 9 10]
+m31 B_in: [0 0; 0 0]
+m31 C_out: [0 0; 0 0]
+m32 A_in: [10 11; 11 12]
+m32 B_in: [0 0; 0 0]
+m32 C_out: [0 0; 0 0]
+m33 A_in: [10 11; 11 12]
+m33 B_in: [1 0; 0 1]
+m33 C_out: [10 11; 11 12]
+m34 A_in: [10 11; 11 12]
+m34 B_in: [0 0; 0 0]
+m34 C_out: [0 0; 0 0]
+m35 A_in: [10 11; 11 12]
+m35 B_in: [0 0; 0 0]
+m35 C_out: [0 0; 0 0]
+m36 A_in: [10 11; 11 12]
+m36 B_in: [0 0; 0 0]
+m36 C_out: [0 0; 0 0]
+m37 A_in: [10 11; 11 12]
+m37 B_in: [0 0; 0 0]
+m37 C_out: [0 0; 0 0]
+m38 A_in: [10 11; 11 12]
+m38 B_in: [0 0; 0 0]
+m38 C_out: [0 0; 0 0]
+m39 A_in: [10 11; 11 12]
+m39 B_in: [0 0; 0 0]
+m39 C_out: [0 0; 0 0]
+m40 A_in: [12 13; 13 14]
+m40 B_in: [0 0; 0 0]
+m40 C_out: [0 0; 0 0]
+m41 A_in: [12 13; 13 14]
+m41 B_in: [1 0; 0 1]
+m41 C_out: [12 13; 13 14]
+m42 A_in: [12 13; 13 14]
+m42 B_in: [0 0; 0 0]
+m42 C_out: [0 0; 0 0]
+m43 A_in: [12 13; 13 14]
+m43 B_in: [0 0; 0 0]
+m43 C_out: [0 0; 0 0]
+m44 A_in: [12 13; 13 14]
+m44 B_in: [0 0; 0 0]
+m44 C_out: [0 0; 0 0]
+m45 A_in: [12 13; 13 14]
+m45 B_in: [0 0; 0 0]
+m45 C_out: [0 0; 0 0]
+m46 A_in: [12 13; 13 14]
+m46 B_in: [0 0; 0 0]
+m46 C_out: [0 0; 0 0]
+m47 A_in: [12 13; 13 14]
+m47 B_in: [0 0; 0 0]
+m47 C_out: [0 0; 0 0]
+m48 A_in: [14 15; 15 16]
+m48 B_in: [0 0; 0 0]
+m48 C_out: [0 0; 0 0]
+m49 A_in: [14 15; 15 16]
+m49 B_in: [1 0; 0 1]
+m49 C_out: [14 15; 15 16]
+m50 A_in: [14 15; 15 16]
+m50 B_in: [0 0; 0 0]
+m50 C_out: [0 0; 0 0]
+m51 A_in: [14 15; 15 16]
+m51 B_in: [0 0; 0 0]
+m51 C_out: [0 0; 0 0]
+m52 A_in: [14 15; 15 16]
+m52 B_in: [0 0; 0 0]
+m52 C_out: [0 0; 0 0]
+m53 A_in: [14 15; 15 16]
+m53 B_in: [0 0; 0 0]
+m53 C_out: [0 0; 0 0]
+m54 A_in: [14 15; 15 16]
+m54 B_in: [0 0; 0 0]
+m54 C_out: [0 0; 0 0]
+m55 A_in: [14 15; 15 16]
+m55 B_in: [0 0; 0 0]
+m55 C_out: [0 0; 0 0]
+m56 A_in: [16 17; 17 18]
+m56 B_in: [0 0; 0 0]
+m56 C_out: [0 0; 0 0]
+m57 A_in: [16 17; 17 18]
+m57 B_in: [1 0; 0 1]
+m57 C_out: [16 17; 17 18]
+m58 A_in: [16 17; 17 18]
+m58 B_in: [0 0; 0 0]
+m58 C_out: [0 0; 0 0]
+m59 A_in: [16 17; 17 18]
+m59 B_in: [0 0; 0 0]
+m59 C_out: [0 0; 0 0]
+m60 A_in: [16 17; 17 18]
+m60 B_in: [0 0; 0 0]
+m60 C_out: [0 0; 0 0]
+m61 A_in: [16 17; 17 18]
+m61 B_in: [0 0; 0 0]
+m61 C_out: [0 0; 0 0]
+m62 A_in: [16 17; 17 18]
+m62 B_in: [0 0; 0 0]
+m62 C_out: [0 0; 0 0]
+m63 A_in: [16 17; 17 18]
+m63 B_in: [0 0; 0 0]
+m63 C_out: [0 0; 0 0]
+TB Matrix A:
+  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 
+  1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 
+  2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 
+  3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+  4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 
+  5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 
+  6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 
+  7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 
+  8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 
+  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 
+  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 
+  11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 
+  12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 
+  13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 
+  14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 
+  15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 
+TB Matrix B:
+  1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+TB Matrix C:
+  0 1 2 3 0 0 0 0 0 0 0 0 0 0 0 0 
+  1 2 3 4 0 0 0 0 0 0 0 0 0 0 0 0 
+  2 3 4 5 0 0 0 0 0 0 0 0 0 0 0 0 
+  3 4 5 6 0 0 0 0 0 0 0 0 0 0 0 0 
+  4 5 6 7 0 0 0 0 0 0 0 0 0 0 0 0 
+  5 6 7 8 0 0 0 0 0 0 0 0 0 0 0 0 
+  6 7 8 9 0 0 0 0 0 0 0 0 0 0 0 0 
+  7 8 9 10 0 0 0 0 0 0 0 0 0 0 0 0 
+  8 9 10 11 0 0 0 0 0 0 0 0 0 0 0 0 
+  9 10 11 12 0 0 0 0 0 0 0 0 0 0 0 0 
+  10 11 12 13 0 0 0 0 0 0 0 0 0 0 0 0 
+  11 12 13 14 0 0 0 0 0 0 0 0 0 0 0 0 
+  12 13 14 15 0 0 0 0 0 0 0 0 0 0 0 0 
+  13 14 15 16 0 0 0 0 0 0 0 0 0 0 0 0 
+  14 15 16 17 0 0 0 0 0 0 0 0 0 0 0 0 
+  15 16 17 18 0 0 0 0 0 0 0 0 0 0 0 0 
+-----------------------------------------------------
+TB Time 75000 | rst=0 start=1 done=0
+----- Multipliers inputs and outputs at time 75000 (state 1) (pass_j 2)-----
+m0 A_in: [4 5; 5 6]
+m0 B_in: [0 0; 0 0]
+m0 C_out: [0 0; 0 0]
+m1 A_in: [4 5; 5 6]
+m1 B_in: [0 0; 0 0]
+m1 C_out: [0 0; 0 0]
+m2 A_in: [4 5; 5 6]
+m2 B_in: [1 0; 0 1]
+m2 C_out: [4 5; 5 6]
+m3 A_in: [4 5; 5 6]
+m3 B_in: [0 0; 0 0]
+m3 C_out: [0 0; 0 0]
+m4 A_in: [4 5; 5 6]
+m4 B_in: [0 0; 0 0]
+m4 C_out: [0 0; 0 0]
+m5 A_in: [4 5; 5 6]
+m5 B_in: [0 0; 0 0]
+m5 C_out: [0 0; 0 0]
+m6 A_in: [4 5; 5 6]
+m6 B_in: [0 0; 0 0]
+m6 C_out: [0 0; 0 0]
+m7 A_in: [4 5; 5 6]
+m7 B_in: [0 0; 0 0]
+m7 C_out: [0 0; 0 0]
+m8 A_in: [6 7; 7 8]
+m8 B_in: [0 0; 0 0]
+m8 C_out: [0 0; 0 0]
+m9 A_in: [6 7; 7 8]
+m9 B_in: [0 0; 0 0]
+m9 C_out: [0 0; 0 0]
+m10 A_in: [6 7; 7 8]
+m10 B_in: [1 0; 0 1]
+m10 C_out: [6 7; 7 8]
+m11 A_in: [6 7; 7 8]
+m11 B_in: [0 0; 0 0]
+m11 C_out: [0 0; 0 0]
+m12 A_in: [6 7; 7 8]
+m12 B_in: [0 0; 0 0]
+m12 C_out: [0 0; 0 0]
+m13 A_in: [6 7; 7 8]
+m13 B_in: [0 0; 0 0]
+m13 C_out: [0 0; 0 0]
+m14 A_in: [6 7; 7 8]
+m14 B_in: [0 0; 0 0]
+m14 C_out: [0 0; 0 0]
+m15 A_in: [6 7; 7 8]
+m15 B_in: [0 0; 0 0]
+m15 C_out: [0 0; 0 0]
+m16 A_in: [8 9; 9 10]
+m16 B_in: [0 0; 0 0]
+m16 C_out: [0 0; 0 0]
+m17 A_in: [8 9; 9 10]
+m17 B_in: [0 0; 0 0]
+m17 C_out: [0 0; 0 0]
+m18 A_in: [8 9; 9 10]
+m18 B_in: [1 0; 0 1]
+m18 C_out: [8 9; 9 10]
+m19 A_in: [8 9; 9 10]
+m19 B_in: [0 0; 0 0]
+m19 C_out: [0 0; 0 0]
+m20 A_in: [8 9; 9 10]
+m20 B_in: [0 0; 0 0]
+m20 C_out: [0 0; 0 0]
+m21 A_in: [8 9; 9 10]
+m21 B_in: [0 0; 0 0]
+m21 C_out: [0 0; 0 0]
+m22 A_in: [8 9; 9 10]
+m22 B_in: [0 0; 0 0]
+m22 C_out: [0 0; 0 0]
+m23 A_in: [8 9; 9 10]
+m23 B_in: [0 0; 0 0]
+m23 C_out: [0 0; 0 0]
+m24 A_in: [10 11; 11 12]
+m24 B_in: [0 0; 0 0]
+m24 C_out: [0 0; 0 0]
+m25 A_in: [10 11; 11 12]
+m25 B_in: [0 0; 0 0]
+m25 C_out: [0 0; 0 0]
+m26 A_in: [10 11; 11 12]
+m26 B_in: [1 0; 0 1]
+m26 C_out: [10 11; 11 12]
+m27 A_in: [10 11; 11 12]
+m27 B_in: [0 0; 0 0]
+m27 C_out: [0 0; 0 0]
+m28 A_in: [10 11; 11 12]
+m28 B_in: [0 0; 0 0]
+m28 C_out: [0 0; 0 0]
+m29 A_in: [10 11; 11 12]
+m29 B_in: [0 0; 0 0]
+m29 C_out: [0 0; 0 0]
+m30 A_in: [10 11; 11 12]
+m30 B_in: [0 0; 0 0]
+m30 C_out: [0 0; 0 0]
+m31 A_in: [10 11; 11 12]
+m31 B_in: [0 0; 0 0]
+m31 C_out: [0 0; 0 0]
+m32 A_in: [12 13; 13 14]
+m32 B_in: [0 0; 0 0]
+m32 C_out: [0 0; 0 0]
+m33 A_in: [12 13; 13 14]
+m33 B_in: [0 0; 0 0]
+m33 C_out: [0 0; 0 0]
+m34 A_in: [12 13; 13 14]
+m34 B_in: [1 0; 0 1]
+m34 C_out: [12 13; 13 14]
+m35 A_in: [12 13; 13 14]
+m35 B_in: [0 0; 0 0]
+m35 C_out: [0 0; 0 0]
+m36 A_in: [12 13; 13 14]
+m36 B_in: [0 0; 0 0]
+m36 C_out: [0 0; 0 0]
+m37 A_in: [12 13; 13 14]
+m37 B_in: [0 0; 0 0]
+m37 C_out: [0 0; 0 0]
+m38 A_in: [12 13; 13 14]
+m38 B_in: [0 0; 0 0]
+m38 C_out: [0 0; 0 0]
+m39 A_in: [12 13; 13 14]
+m39 B_in: [0 0; 0 0]
+m39 C_out: [0 0; 0 0]
+m40 A_in: [14 15; 15 16]
+m40 B_in: [0 0; 0 0]
+m40 C_out: [0 0; 0 0]
+m41 A_in: [14 15; 15 16]
+m41 B_in: [0 0; 0 0]
+m41 C_out: [0 0; 0 0]
+m42 A_in: [14 15; 15 16]
+m42 B_in: [1 0; 0 1]
+m42 C_out: [14 15; 15 16]
+m43 A_in: [14 15; 15 16]
+m43 B_in: [0 0; 0 0]
+m43 C_out: [0 0; 0 0]
+m44 A_in: [14 15; 15 16]
+m44 B_in: [0 0; 0 0]
+m44 C_out: [0 0; 0 0]
+m45 A_in: [14 15; 15 16]
+m45 B_in: [0 0; 0 0]
+m45 C_out: [0 0; 0 0]
+m46 A_in: [14 15; 15 16]
+m46 B_in: [0 0; 0 0]
+m46 C_out: [0 0; 0 0]
+m47 A_in: [14 15; 15 16]
+m47 B_in: [0 0; 0 0]
+m47 C_out: [0 0; 0 0]
+m48 A_in: [16 17; 17 18]
+m48 B_in: [0 0; 0 0]
+m48 C_out: [0 0; 0 0]
+m49 A_in: [16 17; 17 18]
+m49 B_in: [0 0; 0 0]
+m49 C_out: [0 0; 0 0]
+m50 A_in: [16 17; 17 18]
+m50 B_in: [1 0; 0 1]
+m50 C_out: [16 17; 17 18]
+m51 A_in: [16 17; 17 18]
+m51 B_in: [0 0; 0 0]
+m51 C_out: [0 0; 0 0]
+m52 A_in: [16 17; 17 18]
+m52 B_in: [0 0; 0 0]
+m52 C_out: [0 0; 0 0]
+m53 A_in: [16 17; 17 18]
+m53 B_in: [0 0; 0 0]
+m53 C_out: [0 0; 0 0]
+m54 A_in: [16 17; 17 18]
+m54 B_in: [0 0; 0 0]
+m54 C_out: [0 0; 0 0]
+m55 A_in: [16 17; 17 18]
+m55 B_in: [0 0; 0 0]
+m55 C_out: [0 0; 0 0]
+m56 A_in: [18 19; 19 20]
+m56 B_in: [0 0; 0 0]
+m56 C_out: [0 0; 0 0]
+m57 A_in: [18 19; 19 20]
+m57 B_in: [0 0; 0 0]
+m57 C_out: [0 0; 0 0]
+m58 A_in: [18 19; 19 20]
+m58 B_in: [1 0; 0 1]
+m58 C_out: [18 19; 19 20]
+m59 A_in: [18 19; 19 20]
+m59 B_in: [0 0; 0 0]
+m59 C_out: [0 0; 0 0]
+m60 A_in: [18 19; 19 20]
+m60 B_in: [0 0; 0 0]
+m60 C_out: [0 0; 0 0]
+m61 A_in: [18 19; 19 20]
+m61 B_in: [0 0; 0 0]
+m61 C_out: [0 0; 0 0]
+m62 A_in: [18 19; 19 20]
+m62 B_in: [0 0; 0 0]
+m62 C_out: [0 0; 0 0]
+m63 A_in: [18 19; 19 20]
+m63 B_in: [0 0; 0 0]
+m63 C_out: [0 0; 0 0]
+TB Matrix A:
+  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 
+  1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 
+  2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 
+  3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+  4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 
+  5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 
+  6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 
+  7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 
+  8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 
+  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 
+  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 
+  11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 
+  12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 
+  13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 
+  14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 
+  15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 
+TB Matrix B:
+  1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+TB Matrix C:
+  0 1 2 3 0 0 0 0 0 0 0 0 0 0 0 0 
+  1 2 3 4 0 0 0 0 0 0 0 0 0 0 0 0 
+  2 3 4 5 0 0 0 0 0 0 0 0 0 0 0 0 
+  3 4 5 6 0 0 0 0 0 0 0 0 0 0 0 0 
+  4 5 6 7 0 0 0 0 0 0 0 0 0 0 0 0 
+  5 6 7 8 0 0 0 0 0 0 0 0 0 0 0 0 
+  6 7 8 9 0 0 0 0 0 0 0 0 0 0 0 0 
+  7 8 9 10 0 0 0 0 0 0 0 0 0 0 0 0 
+  8 9 10 11 0 0 0 0 0 0 0 0 0 0 0 0 
+  9 10 11 12 0 0 0 0 0 0 0 0 0 0 0 0 
+  10 11 12 13 0 0 0 0 0 0 0 0 0 0 0 0 
+  11 12 13 14 0 0 0 0 0 0 0 0 0 0 0 0 
+  12 13 14 15 0 0 0 0 0 0 0 0 0 0 0 0 
+  13 14 15 16 0 0 0 0 0 0 0 0 0 0 0 0 
+  14 15 16 17 0 0 0 0 0 0 0 0 0 0 0 0 
+  15 16 17 18 0 0 0 0 0 0 0 0 0 0 0 0 
+-----------------------------------------------------
+TB Time 85000 | rst=0 start=1 done=0
+----- Multipliers inputs and outputs at time 85000 (state 0) (pass_j 3)-----
+m0 A_in: [4 5; 5 6]
+m0 B_in: [0 0; 0 0]
+m0 C_out: [0 0; 0 0]
+m1 A_in: [4 5; 5 6]
+m1 B_in: [0 0; 0 0]
+m1 C_out: [0 0; 0 0]
+m2 A_in: [4 5; 5 6]
+m2 B_in: [1 0; 0 1]
+m2 C_out: [4 5; 5 6]
+m3 A_in: [4 5; 5 6]
+m3 B_in: [0 0; 0 0]
+m3 C_out: [0 0; 0 0]
+m4 A_in: [4 5; 5 6]
+m4 B_in: [0 0; 0 0]
+m4 C_out: [0 0; 0 0]
+m5 A_in: [4 5; 5 6]
+m5 B_in: [0 0; 0 0]
+m5 C_out: [0 0; 0 0]
+m6 A_in: [4 5; 5 6]
+m6 B_in: [0 0; 0 0]
+m6 C_out: [0 0; 0 0]
+m7 A_in: [4 5; 5 6]
+m7 B_in: [0 0; 0 0]
+m7 C_out: [0 0; 0 0]
+m8 A_in: [6 7; 7 8]
+m8 B_in: [0 0; 0 0]
+m8 C_out: [0 0; 0 0]
+m9 A_in: [6 7; 7 8]
+m9 B_in: [0 0; 0 0]
+m9 C_out: [0 0; 0 0]
+m10 A_in: [6 7; 7 8]
+m10 B_in: [1 0; 0 1]
+m10 C_out: [6 7; 7 8]
+m11 A_in: [6 7; 7 8]
+m11 B_in: [0 0; 0 0]
+m11 C_out: [0 0; 0 0]
+m12 A_in: [6 7; 7 8]
+m12 B_in: [0 0; 0 0]
+m12 C_out: [0 0; 0 0]
+m13 A_in: [6 7; 7 8]
+m13 B_in: [0 0; 0 0]
+m13 C_out: [0 0; 0 0]
+m14 A_in: [6 7; 7 8]
+m14 B_in: [0 0; 0 0]
+m14 C_out: [0 0; 0 0]
+m15 A_in: [6 7; 7 8]
+m15 B_in: [0 0; 0 0]
+m15 C_out: [0 0; 0 0]
+m16 A_in: [8 9; 9 10]
+m16 B_in: [0 0; 0 0]
+m16 C_out: [0 0; 0 0]
+m17 A_in: [8 9; 9 10]
+m17 B_in: [0 0; 0 0]
+m17 C_out: [0 0; 0 0]
+m18 A_in: [8 9; 9 10]
+m18 B_in: [1 0; 0 1]
+m18 C_out: [8 9; 9 10]
+m19 A_in: [8 9; 9 10]
+m19 B_in: [0 0; 0 0]
+m19 C_out: [0 0; 0 0]
+m20 A_in: [8 9; 9 10]
+m20 B_in: [0 0; 0 0]
+m20 C_out: [0 0; 0 0]
+m21 A_in: [8 9; 9 10]
+m21 B_in: [0 0; 0 0]
+m21 C_out: [0 0; 0 0]
+m22 A_in: [8 9; 9 10]
+m22 B_in: [0 0; 0 0]
+m22 C_out: [0 0; 0 0]
+m23 A_in: [8 9; 9 10]
+m23 B_in: [0 0; 0 0]
+m23 C_out: [0 0; 0 0]
+m24 A_in: [10 11; 11 12]
+m24 B_in: [0 0; 0 0]
+m24 C_out: [0 0; 0 0]
+m25 A_in: [10 11; 11 12]
+m25 B_in: [0 0; 0 0]
+m25 C_out: [0 0; 0 0]
+m26 A_in: [10 11; 11 12]
+m26 B_in: [1 0; 0 1]
+m26 C_out: [10 11; 11 12]
+m27 A_in: [10 11; 11 12]
+m27 B_in: [0 0; 0 0]
+m27 C_out: [0 0; 0 0]
+m28 A_in: [10 11; 11 12]
+m28 B_in: [0 0; 0 0]
+m28 C_out: [0 0; 0 0]
+m29 A_in: [10 11; 11 12]
+m29 B_in: [0 0; 0 0]
+m29 C_out: [0 0; 0 0]
+m30 A_in: [10 11; 11 12]
+m30 B_in: [0 0; 0 0]
+m30 C_out: [0 0; 0 0]
+m31 A_in: [10 11; 11 12]
+m31 B_in: [0 0; 0 0]
+m31 C_out: [0 0; 0 0]
+m32 A_in: [12 13; 13 14]
+m32 B_in: [0 0; 0 0]
+m32 C_out: [0 0; 0 0]
+m33 A_in: [12 13; 13 14]
+m33 B_in: [0 0; 0 0]
+m33 C_out: [0 0; 0 0]
+m34 A_in: [12 13; 13 14]
+m34 B_in: [1 0; 0 1]
+m34 C_out: [12 13; 13 14]
+m35 A_in: [12 13; 13 14]
+m35 B_in: [0 0; 0 0]
+m35 C_out: [0 0; 0 0]
+m36 A_in: [12 13; 13 14]
+m36 B_in: [0 0; 0 0]
+m36 C_out: [0 0; 0 0]
+m37 A_in: [12 13; 13 14]
+m37 B_in: [0 0; 0 0]
+m37 C_out: [0 0; 0 0]
+m38 A_in: [12 13; 13 14]
+m38 B_in: [0 0; 0 0]
+m38 C_out: [0 0; 0 0]
+m39 A_in: [12 13; 13 14]
+m39 B_in: [0 0; 0 0]
+m39 C_out: [0 0; 0 0]
+m40 A_in: [14 15; 15 16]
+m40 B_in: [0 0; 0 0]
+m40 C_out: [0 0; 0 0]
+m41 A_in: [14 15; 15 16]
+m41 B_in: [0 0; 0 0]
+m41 C_out: [0 0; 0 0]
+m42 A_in: [14 15; 15 16]
+m42 B_in: [1 0; 0 1]
+m42 C_out: [14 15; 15 16]
+m43 A_in: [14 15; 15 16]
+m43 B_in: [0 0; 0 0]
+m43 C_out: [0 0; 0 0]
+m44 A_in: [14 15; 15 16]
+m44 B_in: [0 0; 0 0]
+m44 C_out: [0 0; 0 0]
+m45 A_in: [14 15; 15 16]
+m45 B_in: [0 0; 0 0]
+m45 C_out: [0 0; 0 0]
+m46 A_in: [14 15; 15 16]
+m46 B_in: [0 0; 0 0]
+m46 C_out: [0 0; 0 0]
+m47 A_in: [14 15; 15 16]
+m47 B_in: [0 0; 0 0]
+m47 C_out: [0 0; 0 0]
+m48 A_in: [16 17; 17 18]
+m48 B_in: [0 0; 0 0]
+m48 C_out: [0 0; 0 0]
+m49 A_in: [16 17; 17 18]
+m49 B_in: [0 0; 0 0]
+m49 C_out: [0 0; 0 0]
+m50 A_in: [16 17; 17 18]
+m50 B_in: [1 0; 0 1]
+m50 C_out: [16 17; 17 18]
+m51 A_in: [16 17; 17 18]
+m51 B_in: [0 0; 0 0]
+m51 C_out: [0 0; 0 0]
+m52 A_in: [16 17; 17 18]
+m52 B_in: [0 0; 0 0]
+m52 C_out: [0 0; 0 0]
+m53 A_in: [16 17; 17 18]
+m53 B_in: [0 0; 0 0]
+m53 C_out: [0 0; 0 0]
+m54 A_in: [16 17; 17 18]
+m54 B_in: [0 0; 0 0]
+m54 C_out: [0 0; 0 0]
+m55 A_in: [16 17; 17 18]
+m55 B_in: [0 0; 0 0]
+m55 C_out: [0 0; 0 0]
+m56 A_in: [18 19; 19 20]
+m56 B_in: [0 0; 0 0]
+m56 C_out: [0 0; 0 0]
+m57 A_in: [18 19; 19 20]
+m57 B_in: [0 0; 0 0]
+m57 C_out: [0 0; 0 0]
+m58 A_in: [18 19; 19 20]
+m58 B_in: [1 0; 0 1]
+m58 C_out: [18 19; 19 20]
+m59 A_in: [18 19; 19 20]
+m59 B_in: [0 0; 0 0]
+m59 C_out: [0 0; 0 0]
+m60 A_in: [18 19; 19 20]
+m60 B_in: [0 0; 0 0]
+m60 C_out: [0 0; 0 0]
+m61 A_in: [18 19; 19 20]
+m61 B_in: [0 0; 0 0]
+m61 C_out: [0 0; 0 0]
+m62 A_in: [18 19; 19 20]
+m62 B_in: [0 0; 0 0]
+m62 C_out: [0 0; 0 0]
+m63 A_in: [18 19; 19 20]
+m63 B_in: [0 0; 0 0]
+m63 C_out: [0 0; 0 0]
+TB Matrix A:
+  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 
+  1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 
+  2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 
+  3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+  4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 
+  5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 
+  6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 
+  7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 
+  8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 
+  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 
+  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 
+  11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 
+  12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 
+  13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 
+  14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 
+  15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 
+TB Matrix B:
+  1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+TB Matrix C:
+  0 1 2 3 4 5 0 0 0 0 0 0 0 0 0 0 
+  1 2 3 4 5 6 0 0 0 0 0 0 0 0 0 0 
+  2 3 4 5 6 7 0 0 0 0 0 0 0 0 0 0 
+  3 4 5 6 7 8 0 0 0 0 0 0 0 0 0 0 
+  4 5 6 7 8 9 0 0 0 0 0 0 0 0 0 0 
+  5 6 7 8 9 10 0 0 0 0 0 0 0 0 0 0 
+  6 7 8 9 10 11 0 0 0 0 0 0 0 0 0 0 
+  7 8 9 10 11 12 0 0 0 0 0 0 0 0 0 0 
+  8 9 10 11 12 13 0 0 0 0 0 0 0 0 0 0 
+  9 10 11 12 13 14 0 0 0 0 0 0 0 0 0 0 
+  10 11 12 13 14 15 0 0 0 0 0 0 0 0 0 0 
+  11 12 13 14 15 16 0 0 0 0 0 0 0 0 0 0 
+  12 13 14 15 16 17 0 0 0 0 0 0 0 0 0 0 
+  13 14 15 16 17 18 0 0 0 0 0 0 0 0 0 0 
+  14 15 16 17 18 19 0 0 0 0 0 0 0 0 0 0 
+  15 16 17 18 19 20 0 0 0 0 0 0 0 0 0 0 
+-----------------------------------------------------
+TB Time 95000 | rst=0 start=1 done=0
+----- Multipliers inputs and outputs at time 95000 (state 1) (pass_j 3)-----
+m0 A_in: [6 7; 7 8]
+m0 B_in: [0 0; 0 0]
+m0 C_out: [0 0; 0 0]
+m1 A_in: [6 7; 7 8]
+m1 B_in: [0 0; 0 0]
+m1 C_out: [0 0; 0 0]
+m2 A_in: [6 7; 7 8]
+m2 B_in: [0 0; 0 0]
+m2 C_out: [0 0; 0 0]
+m3 A_in: [6 7; 7 8]
+m3 B_in: [1 0; 0 1]
+m3 C_out: [6 7; 7 8]
+m4 A_in: [6 7; 7 8]
+m4 B_in: [0 0; 0 0]
+m4 C_out: [0 0; 0 0]
+m5 A_in: [6 7; 7 8]
+m5 B_in: [0 0; 0 0]
+m5 C_out: [0 0; 0 0]
+m6 A_in: [6 7; 7 8]
+m6 B_in: [0 0; 0 0]
+m6 C_out: [0 0; 0 0]
+m7 A_in: [6 7; 7 8]
+m7 B_in: [0 0; 0 0]
+m7 C_out: [0 0; 0 0]
+m8 A_in: [8 9; 9 10]
+m8 B_in: [0 0; 0 0]
+m8 C_out: [0 0; 0 0]
+m9 A_in: [8 9; 9 10]
+m9 B_in: [0 0; 0 0]
+m9 C_out: [0 0; 0 0]
+m10 A_in: [8 9; 9 10]
+m10 B_in: [0 0; 0 0]
+m10 C_out: [0 0; 0 0]
+m11 A_in: [8 9; 9 10]
+m11 B_in: [1 0; 0 1]
+m11 C_out: [8 9; 9 10]
+m12 A_in: [8 9; 9 10]
+m12 B_in: [0 0; 0 0]
+m12 C_out: [0 0; 0 0]
+m13 A_in: [8 9; 9 10]
+m13 B_in: [0 0; 0 0]
+m13 C_out: [0 0; 0 0]
+m14 A_in: [8 9; 9 10]
+m14 B_in: [0 0; 0 0]
+m14 C_out: [0 0; 0 0]
+m15 A_in: [8 9; 9 10]
+m15 B_in: [0 0; 0 0]
+m15 C_out: [0 0; 0 0]
+m16 A_in: [10 11; 11 12]
+m16 B_in: [0 0; 0 0]
+m16 C_out: [0 0; 0 0]
+m17 A_in: [10 11; 11 12]
+m17 B_in: [0 0; 0 0]
+m17 C_out: [0 0; 0 0]
+m18 A_in: [10 11; 11 12]
+m18 B_in: [0 0; 0 0]
+m18 C_out: [0 0; 0 0]
+m19 A_in: [10 11; 11 12]
+m19 B_in: [1 0; 0 1]
+m19 C_out: [10 11; 11 12]
+m20 A_in: [10 11; 11 12]
+m20 B_in: [0 0; 0 0]
+m20 C_out: [0 0; 0 0]
+m21 A_in: [10 11; 11 12]
+m21 B_in: [0 0; 0 0]
+m21 C_out: [0 0; 0 0]
+m22 A_in: [10 11; 11 12]
+m22 B_in: [0 0; 0 0]
+m22 C_out: [0 0; 0 0]
+m23 A_in: [10 11; 11 12]
+m23 B_in: [0 0; 0 0]
+m23 C_out: [0 0; 0 0]
+m24 A_in: [12 13; 13 14]
+m24 B_in: [0 0; 0 0]
+m24 C_out: [0 0; 0 0]
+m25 A_in: [12 13; 13 14]
+m25 B_in: [0 0; 0 0]
+m25 C_out: [0 0; 0 0]
+m26 A_in: [12 13; 13 14]
+m26 B_in: [0 0; 0 0]
+m26 C_out: [0 0; 0 0]
+m27 A_in: [12 13; 13 14]
+m27 B_in: [1 0; 0 1]
+m27 C_out: [12 13; 13 14]
+m28 A_in: [12 13; 13 14]
+m28 B_in: [0 0; 0 0]
+m28 C_out: [0 0; 0 0]
+m29 A_in: [12 13; 13 14]
+m29 B_in: [0 0; 0 0]
+m29 C_out: [0 0; 0 0]
+m30 A_in: [12 13; 13 14]
+m30 B_in: [0 0; 0 0]
+m30 C_out: [0 0; 0 0]
+m31 A_in: [12 13; 13 14]
+m31 B_in: [0 0; 0 0]
+m31 C_out: [0 0; 0 0]
+m32 A_in: [14 15; 15 16]
+m32 B_in: [0 0; 0 0]
+m32 C_out: [0 0; 0 0]
+m33 A_in: [14 15; 15 16]
+m33 B_in: [0 0; 0 0]
+m33 C_out: [0 0; 0 0]
+m34 A_in: [14 15; 15 16]
+m34 B_in: [0 0; 0 0]
+m34 C_out: [0 0; 0 0]
+m35 A_in: [14 15; 15 16]
+m35 B_in: [1 0; 0 1]
+m35 C_out: [14 15; 15 16]
+m36 A_in: [14 15; 15 16]
+m36 B_in: [0 0; 0 0]
+m36 C_out: [0 0; 0 0]
+m37 A_in: [14 15; 15 16]
+m37 B_in: [0 0; 0 0]
+m37 C_out: [0 0; 0 0]
+m38 A_in: [14 15; 15 16]
+m38 B_in: [0 0; 0 0]
+m38 C_out: [0 0; 0 0]
+m39 A_in: [14 15; 15 16]
+m39 B_in: [0 0; 0 0]
+m39 C_out: [0 0; 0 0]
+m40 A_in: [16 17; 17 18]
+m40 B_in: [0 0; 0 0]
+m40 C_out: [0 0; 0 0]
+m41 A_in: [16 17; 17 18]
+m41 B_in: [0 0; 0 0]
+m41 C_out: [0 0; 0 0]
+m42 A_in: [16 17; 17 18]
+m42 B_in: [0 0; 0 0]
+m42 C_out: [0 0; 0 0]
+m43 A_in: [16 17; 17 18]
+m43 B_in: [1 0; 0 1]
+m43 C_out: [16 17; 17 18]
+m44 A_in: [16 17; 17 18]
+m44 B_in: [0 0; 0 0]
+m44 C_out: [0 0; 0 0]
+m45 A_in: [16 17; 17 18]
+m45 B_in: [0 0; 0 0]
+m45 C_out: [0 0; 0 0]
+m46 A_in: [16 17; 17 18]
+m46 B_in: [0 0; 0 0]
+m46 C_out: [0 0; 0 0]
+m47 A_in: [16 17; 17 18]
+m47 B_in: [0 0; 0 0]
+m47 C_out: [0 0; 0 0]
+m48 A_in: [18 19; 19 20]
+m48 B_in: [0 0; 0 0]
+m48 C_out: [0 0; 0 0]
+m49 A_in: [18 19; 19 20]
+m49 B_in: [0 0; 0 0]
+m49 C_out: [0 0; 0 0]
+m50 A_in: [18 19; 19 20]
+m50 B_in: [0 0; 0 0]
+m50 C_out: [0 0; 0 0]
+m51 A_in: [18 19; 19 20]
+m51 B_in: [1 0; 0 1]
+m51 C_out: [18 19; 19 20]
+m52 A_in: [18 19; 19 20]
+m52 B_in: [0 0; 0 0]
+m52 C_out: [0 0; 0 0]
+m53 A_in: [18 19; 19 20]
+m53 B_in: [0 0; 0 0]
+m53 C_out: [0 0; 0 0]
+m54 A_in: [18 19; 19 20]
+m54 B_in: [0 0; 0 0]
+m54 C_out: [0 0; 0 0]
+m55 A_in: [18 19; 19 20]
+m55 B_in: [0 0; 0 0]
+m55 C_out: [0 0; 0 0]
+m56 A_in: [20 21; 21 22]
+m56 B_in: [0 0; 0 0]
+m56 C_out: [0 0; 0 0]
+m57 A_in: [20 21; 21 22]
+m57 B_in: [0 0; 0 0]
+m57 C_out: [0 0; 0 0]
+m58 A_in: [20 21; 21 22]
+m58 B_in: [0 0; 0 0]
+m58 C_out: [0 0; 0 0]
+m59 A_in: [20 21; 21 22]
+m59 B_in: [1 0; 0 1]
+m59 C_out: [20 21; 21 22]
+m60 A_in: [20 21; 21 22]
+m60 B_in: [0 0; 0 0]
+m60 C_out: [0 0; 0 0]
+m61 A_in: [20 21; 21 22]
+m61 B_in: [0 0; 0 0]
+m61 C_out: [0 0; 0 0]
+m62 A_in: [20 21; 21 22]
+m62 B_in: [0 0; 0 0]
+m62 C_out: [0 0; 0 0]
+m63 A_in: [20 21; 21 22]
+m63 B_in: [0 0; 0 0]
+m63 C_out: [0 0; 0 0]
+TB Matrix A:
+  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 
+  1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 
+  2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 
+  3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+  4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 
+  5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 
+  6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 
+  7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 
+  8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 
+  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 
+  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 
+  11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 
+  12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 
+  13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 
+  14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 
+  15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 
+TB Matrix B:
+  1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+TB Matrix C:
+  0 1 2 3 4 5 0 0 0 0 0 0 0 0 0 0 
+  1 2 3 4 5 6 0 0 0 0 0 0 0 0 0 0 
+  2 3 4 5 6 7 0 0 0 0 0 0 0 0 0 0 
+  3 4 5 6 7 8 0 0 0 0 0 0 0 0 0 0 
+  4 5 6 7 8 9 0 0 0 0 0 0 0 0 0 0 
+  5 6 7 8 9 10 0 0 0 0 0 0 0 0 0 0 
+  6 7 8 9 10 11 0 0 0 0 0 0 0 0 0 0 
+  7 8 9 10 11 12 0 0 0 0 0 0 0 0 0 0 
+  8 9 10 11 12 13 0 0 0 0 0 0 0 0 0 0 
+  9 10 11 12 13 14 0 0 0 0 0 0 0 0 0 0 
+  10 11 12 13 14 15 0 0 0 0 0 0 0 0 0 0 
+  11 12 13 14 15 16 0 0 0 0 0 0 0 0 0 0 
+  12 13 14 15 16 17 0 0 0 0 0 0 0 0 0 0 
+  13 14 15 16 17 18 0 0 0 0 0 0 0 0 0 0 
+  14 15 16 17 18 19 0 0 0 0 0 0 0 0 0 0 
+  15 16 17 18 19 20 0 0 0 0 0 0 0 0 0 0 
+-----------------------------------------------------
+TB Time 105000 | rst=0 start=1 done=0
+----- Multipliers inputs and outputs at time 105000 (state 0) (pass_j 4)-----
+m0 A_in: [6 7; 7 8]
+m0 B_in: [0 0; 0 0]
+m0 C_out: [0 0; 0 0]
+m1 A_in: [6 7; 7 8]
+m1 B_in: [0 0; 0 0]
+m1 C_out: [0 0; 0 0]
+m2 A_in: [6 7; 7 8]
+m2 B_in: [0 0; 0 0]
+m2 C_out: [0 0; 0 0]
+m3 A_in: [6 7; 7 8]
+m3 B_in: [1 0; 0 1]
+m3 C_out: [6 7; 7 8]
+m4 A_in: [6 7; 7 8]
+m4 B_in: [0 0; 0 0]
+m4 C_out: [0 0; 0 0]
+m5 A_in: [6 7; 7 8]
+m5 B_in: [0 0; 0 0]
+m5 C_out: [0 0; 0 0]
+m6 A_in: [6 7; 7 8]
+m6 B_in: [0 0; 0 0]
+m6 C_out: [0 0; 0 0]
+m7 A_in: [6 7; 7 8]
+m7 B_in: [0 0; 0 0]
+m7 C_out: [0 0; 0 0]
+m8 A_in: [8 9; 9 10]
+m8 B_in: [0 0; 0 0]
+m8 C_out: [0 0; 0 0]
+m9 A_in: [8 9; 9 10]
+m9 B_in: [0 0; 0 0]
+m9 C_out: [0 0; 0 0]
+m10 A_in: [8 9; 9 10]
+m10 B_in: [0 0; 0 0]
+m10 C_out: [0 0; 0 0]
+m11 A_in: [8 9; 9 10]
+m11 B_in: [1 0; 0 1]
+m11 C_out: [8 9; 9 10]
+m12 A_in: [8 9; 9 10]
+m12 B_in: [0 0; 0 0]
+m12 C_out: [0 0; 0 0]
+m13 A_in: [8 9; 9 10]
+m13 B_in: [0 0; 0 0]
+m13 C_out: [0 0; 0 0]
+m14 A_in: [8 9; 9 10]
+m14 B_in: [0 0; 0 0]
+m14 C_out: [0 0; 0 0]
+m15 A_in: [8 9; 9 10]
+m15 B_in: [0 0; 0 0]
+m15 C_out: [0 0; 0 0]
+m16 A_in: [10 11; 11 12]
+m16 B_in: [0 0; 0 0]
+m16 C_out: [0 0; 0 0]
+m17 A_in: [10 11; 11 12]
+m17 B_in: [0 0; 0 0]
+m17 C_out: [0 0; 0 0]
+m18 A_in: [10 11; 11 12]
+m18 B_in: [0 0; 0 0]
+m18 C_out: [0 0; 0 0]
+m19 A_in: [10 11; 11 12]
+m19 B_in: [1 0; 0 1]
+m19 C_out: [10 11; 11 12]
+m20 A_in: [10 11; 11 12]
+m20 B_in: [0 0; 0 0]
+m20 C_out: [0 0; 0 0]
+m21 A_in: [10 11; 11 12]
+m21 B_in: [0 0; 0 0]
+m21 C_out: [0 0; 0 0]
+m22 A_in: [10 11; 11 12]
+m22 B_in: [0 0; 0 0]
+m22 C_out: [0 0; 0 0]
+m23 A_in: [10 11; 11 12]
+m23 B_in: [0 0; 0 0]
+m23 C_out: [0 0; 0 0]
+m24 A_in: [12 13; 13 14]
+m24 B_in: [0 0; 0 0]
+m24 C_out: [0 0; 0 0]
+m25 A_in: [12 13; 13 14]
+m25 B_in: [0 0; 0 0]
+m25 C_out: [0 0; 0 0]
+m26 A_in: [12 13; 13 14]
+m26 B_in: [0 0; 0 0]
+m26 C_out: [0 0; 0 0]
+m27 A_in: [12 13; 13 14]
+m27 B_in: [1 0; 0 1]
+m27 C_out: [12 13; 13 14]
+m28 A_in: [12 13; 13 14]
+m28 B_in: [0 0; 0 0]
+m28 C_out: [0 0; 0 0]
+m29 A_in: [12 13; 13 14]
+m29 B_in: [0 0; 0 0]
+m29 C_out: [0 0; 0 0]
+m30 A_in: [12 13; 13 14]
+m30 B_in: [0 0; 0 0]
+m30 C_out: [0 0; 0 0]
+m31 A_in: [12 13; 13 14]
+m31 B_in: [0 0; 0 0]
+m31 C_out: [0 0; 0 0]
+m32 A_in: [14 15; 15 16]
+m32 B_in: [0 0; 0 0]
+m32 C_out: [0 0; 0 0]
+m33 A_in: [14 15; 15 16]
+m33 B_in: [0 0; 0 0]
+m33 C_out: [0 0; 0 0]
+m34 A_in: [14 15; 15 16]
+m34 B_in: [0 0; 0 0]
+m34 C_out: [0 0; 0 0]
+m35 A_in: [14 15; 15 16]
+m35 B_in: [1 0; 0 1]
+m35 C_out: [14 15; 15 16]
+m36 A_in: [14 15; 15 16]
+m36 B_in: [0 0; 0 0]
+m36 C_out: [0 0; 0 0]
+m37 A_in: [14 15; 15 16]
+m37 B_in: [0 0; 0 0]
+m37 C_out: [0 0; 0 0]
+m38 A_in: [14 15; 15 16]
+m38 B_in: [0 0; 0 0]
+m38 C_out: [0 0; 0 0]
+m39 A_in: [14 15; 15 16]
+m39 B_in: [0 0; 0 0]
+m39 C_out: [0 0; 0 0]
+m40 A_in: [16 17; 17 18]
+m40 B_in: [0 0; 0 0]
+m40 C_out: [0 0; 0 0]
+m41 A_in: [16 17; 17 18]
+m41 B_in: [0 0; 0 0]
+m41 C_out: [0 0; 0 0]
+m42 A_in: [16 17; 17 18]
+m42 B_in: [0 0; 0 0]
+m42 C_out: [0 0; 0 0]
+m43 A_in: [16 17; 17 18]
+m43 B_in: [1 0; 0 1]
+m43 C_out: [16 17; 17 18]
+m44 A_in: [16 17; 17 18]
+m44 B_in: [0 0; 0 0]
+m44 C_out: [0 0; 0 0]
+m45 A_in: [16 17; 17 18]
+m45 B_in: [0 0; 0 0]
+m45 C_out: [0 0; 0 0]
+m46 A_in: [16 17; 17 18]
+m46 B_in: [0 0; 0 0]
+m46 C_out: [0 0; 0 0]
+m47 A_in: [16 17; 17 18]
+m47 B_in: [0 0; 0 0]
+m47 C_out: [0 0; 0 0]
+m48 A_in: [18 19; 19 20]
+m48 B_in: [0 0; 0 0]
+m48 C_out: [0 0; 0 0]
+m49 A_in: [18 19; 19 20]
+m49 B_in: [0 0; 0 0]
+m49 C_out: [0 0; 0 0]
+m50 A_in: [18 19; 19 20]
+m50 B_in: [0 0; 0 0]
+m50 C_out: [0 0; 0 0]
+m51 A_in: [18 19; 19 20]
+m51 B_in: [1 0; 0 1]
+m51 C_out: [18 19; 19 20]
+m52 A_in: [18 19; 19 20]
+m52 B_in: [0 0; 0 0]
+m52 C_out: [0 0; 0 0]
+m53 A_in: [18 19; 19 20]
+m53 B_in: [0 0; 0 0]
+m53 C_out: [0 0; 0 0]
+m54 A_in: [18 19; 19 20]
+m54 B_in: [0 0; 0 0]
+m54 C_out: [0 0; 0 0]
+m55 A_in: [18 19; 19 20]
+m55 B_in: [0 0; 0 0]
+m55 C_out: [0 0; 0 0]
+m56 A_in: [20 21; 21 22]
+m56 B_in: [0 0; 0 0]
+m56 C_out: [0 0; 0 0]
+m57 A_in: [20 21; 21 22]
+m57 B_in: [0 0; 0 0]
+m57 C_out: [0 0; 0 0]
+m58 A_in: [20 21; 21 22]
+m58 B_in: [0 0; 0 0]
+m58 C_out: [0 0; 0 0]
+m59 A_in: [20 21; 21 22]
+m59 B_in: [1 0; 0 1]
+m59 C_out: [20 21; 21 22]
+m60 A_in: [20 21; 21 22]
+m60 B_in: [0 0; 0 0]
+m60 C_out: [0 0; 0 0]
+m61 A_in: [20 21; 21 22]
+m61 B_in: [0 0; 0 0]
+m61 C_out: [0 0; 0 0]
+m62 A_in: [20 21; 21 22]
+m62 B_in: [0 0; 0 0]
+m62 C_out: [0 0; 0 0]
+m63 A_in: [20 21; 21 22]
+m63 B_in: [0 0; 0 0]
+m63 C_out: [0 0; 0 0]
+TB Matrix A:
+  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 
+  1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 
+  2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 
+  3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+  4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 
+  5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 
+  6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 
+  7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 
+  8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 
+  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 
+  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 
+  11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 
+  12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 
+  13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 
+  14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 
+  15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 
+TB Matrix B:
+  1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+TB Matrix C:
+  0 1 2 3 4 5 6 7 0 0 0 0 0 0 0 0 
+  1 2 3 4 5 6 7 8 0 0 0 0 0 0 0 0 
+  2 3 4 5 6 7 8 9 0 0 0 0 0 0 0 0 
+  3 4 5 6 7 8 9 10 0 0 0 0 0 0 0 0 
+  4 5 6 7 8 9 10 11 0 0 0 0 0 0 0 0 
+  5 6 7 8 9 10 11 12 0 0 0 0 0 0 0 0 
+  6 7 8 9 10 11 12 13 0 0 0 0 0 0 0 0 
+  7 8 9 10 11 12 13 14 0 0 0 0 0 0 0 0 
+  8 9 10 11 12 13 14 15 0 0 0 0 0 0 0 0 
+  9 10 11 12 13 14 15 16 0 0 0 0 0 0 0 0 
+  10 11 12 13 14 15 16 17 0 0 0 0 0 0 0 0 
+  11 12 13 14 15 16 17 18 0 0 0 0 0 0 0 0 
+  12 13 14 15 16 17 18 19 0 0 0 0 0 0 0 0 
+  13 14 15 16 17 18 19 20 0 0 0 0 0 0 0 0 
+  14 15 16 17 18 19 20 21 0 0 0 0 0 0 0 0 
+  15 16 17 18 19 20 21 22 0 0 0 0 0 0 0 0 
+-----------------------------------------------------
+TB Time 115000 | rst=0 start=1 done=0
+----- Multipliers inputs and outputs at time 115000 (state 1) (pass_j 4)-----
+m0 A_in: [8 9; 9 10]
+m0 B_in: [0 0; 0 0]
+m0 C_out: [0 0; 0 0]
+m1 A_in: [8 9; 9 10]
+m1 B_in: [0 0; 0 0]
+m1 C_out: [0 0; 0 0]
+m2 A_in: [8 9; 9 10]
+m2 B_in: [0 0; 0 0]
+m2 C_out: [0 0; 0 0]
+m3 A_in: [8 9; 9 10]
+m3 B_in: [0 0; 0 0]
+m3 C_out: [0 0; 0 0]
+m4 A_in: [8 9; 9 10]
+m4 B_in: [1 0; 0 1]
+m4 C_out: [8 9; 9 10]
+m5 A_in: [8 9; 9 10]
+m5 B_in: [0 0; 0 0]
+m5 C_out: [0 0; 0 0]
+m6 A_in: [8 9; 9 10]
+m6 B_in: [0 0; 0 0]
+m6 C_out: [0 0; 0 0]
+m7 A_in: [8 9; 9 10]
+m7 B_in: [0 0; 0 0]
+m7 C_out: [0 0; 0 0]
+m8 A_in: [10 11; 11 12]
+m8 B_in: [0 0; 0 0]
+m8 C_out: [0 0; 0 0]
+m9 A_in: [10 11; 11 12]
+m9 B_in: [0 0; 0 0]
+m9 C_out: [0 0; 0 0]
+m10 A_in: [10 11; 11 12]
+m10 B_in: [0 0; 0 0]
+m10 C_out: [0 0; 0 0]
+m11 A_in: [10 11; 11 12]
+m11 B_in: [0 0; 0 0]
+m11 C_out: [0 0; 0 0]
+m12 A_in: [10 11; 11 12]
+m12 B_in: [1 0; 0 1]
+m12 C_out: [10 11; 11 12]
+m13 A_in: [10 11; 11 12]
+m13 B_in: [0 0; 0 0]
+m13 C_out: [0 0; 0 0]
+m14 A_in: [10 11; 11 12]
+m14 B_in: [0 0; 0 0]
+m14 C_out: [0 0; 0 0]
+m15 A_in: [10 11; 11 12]
+m15 B_in: [0 0; 0 0]
+m15 C_out: [0 0; 0 0]
+m16 A_in: [12 13; 13 14]
+m16 B_in: [0 0; 0 0]
+m16 C_out: [0 0; 0 0]
+m17 A_in: [12 13; 13 14]
+m17 B_in: [0 0; 0 0]
+m17 C_out: [0 0; 0 0]
+m18 A_in: [12 13; 13 14]
+m18 B_in: [0 0; 0 0]
+m18 C_out: [0 0; 0 0]
+m19 A_in: [12 13; 13 14]
+m19 B_in: [0 0; 0 0]
+m19 C_out: [0 0; 0 0]
+m20 A_in: [12 13; 13 14]
+m20 B_in: [1 0; 0 1]
+m20 C_out: [12 13; 13 14]
+m21 A_in: [12 13; 13 14]
+m21 B_in: [0 0; 0 0]
+m21 C_out: [0 0; 0 0]
+m22 A_in: [12 13; 13 14]
+m22 B_in: [0 0; 0 0]
+m22 C_out: [0 0; 0 0]
+m23 A_in: [12 13; 13 14]
+m23 B_in: [0 0; 0 0]
+m23 C_out: [0 0; 0 0]
+m24 A_in: [14 15; 15 16]
+m24 B_in: [0 0; 0 0]
+m24 C_out: [0 0; 0 0]
+m25 A_in: [14 15; 15 16]
+m25 B_in: [0 0; 0 0]
+m25 C_out: [0 0; 0 0]
+m26 A_in: [14 15; 15 16]
+m26 B_in: [0 0; 0 0]
+m26 C_out: [0 0; 0 0]
+m27 A_in: [14 15; 15 16]
+m27 B_in: [0 0; 0 0]
+m27 C_out: [0 0; 0 0]
+m28 A_in: [14 15; 15 16]
+m28 B_in: [1 0; 0 1]
+m28 C_out: [14 15; 15 16]
+m29 A_in: [14 15; 15 16]
+m29 B_in: [0 0; 0 0]
+m29 C_out: [0 0; 0 0]
+m30 A_in: [14 15; 15 16]
+m30 B_in: [0 0; 0 0]
+m30 C_out: [0 0; 0 0]
+m31 A_in: [14 15; 15 16]
+m31 B_in: [0 0; 0 0]
+m31 C_out: [0 0; 0 0]
+m32 A_in: [16 17; 17 18]
+m32 B_in: [0 0; 0 0]
+m32 C_out: [0 0; 0 0]
+m33 A_in: [16 17; 17 18]
+m33 B_in: [0 0; 0 0]
+m33 C_out: [0 0; 0 0]
+m34 A_in: [16 17; 17 18]
+m34 B_in: [0 0; 0 0]
+m34 C_out: [0 0; 0 0]
+m35 A_in: [16 17; 17 18]
+m35 B_in: [0 0; 0 0]
+m35 C_out: [0 0; 0 0]
+m36 A_in: [16 17; 17 18]
+m36 B_in: [1 0; 0 1]
+m36 C_out: [16 17; 17 18]
+m37 A_in: [16 17; 17 18]
+m37 B_in: [0 0; 0 0]
+m37 C_out: [0 0; 0 0]
+m38 A_in: [16 17; 17 18]
+m38 B_in: [0 0; 0 0]
+m38 C_out: [0 0; 0 0]
+m39 A_in: [16 17; 17 18]
+m39 B_in: [0 0; 0 0]
+m39 C_out: [0 0; 0 0]
+m40 A_in: [18 19; 19 20]
+m40 B_in: [0 0; 0 0]
+m40 C_out: [0 0; 0 0]
+m41 A_in: [18 19; 19 20]
+m41 B_in: [0 0; 0 0]
+m41 C_out: [0 0; 0 0]
+m42 A_in: [18 19; 19 20]
+m42 B_in: [0 0; 0 0]
+m42 C_out: [0 0; 0 0]
+m43 A_in: [18 19; 19 20]
+m43 B_in: [0 0; 0 0]
+m43 C_out: [0 0; 0 0]
+m44 A_in: [18 19; 19 20]
+m44 B_in: [1 0; 0 1]
+m44 C_out: [18 19; 19 20]
+m45 A_in: [18 19; 19 20]
+m45 B_in: [0 0; 0 0]
+m45 C_out: [0 0; 0 0]
+m46 A_in: [18 19; 19 20]
+m46 B_in: [0 0; 0 0]
+m46 C_out: [0 0; 0 0]
+m47 A_in: [18 19; 19 20]
+m47 B_in: [0 0; 0 0]
+m47 C_out: [0 0; 0 0]
+m48 A_in: [20 21; 21 22]
+m48 B_in: [0 0; 0 0]
+m48 C_out: [0 0; 0 0]
+m49 A_in: [20 21; 21 22]
+m49 B_in: [0 0; 0 0]
+m49 C_out: [0 0; 0 0]
+m50 A_in: [20 21; 21 22]
+m50 B_in: [0 0; 0 0]
+m50 C_out: [0 0; 0 0]
+m51 A_in: [20 21; 21 22]
+m51 B_in: [0 0; 0 0]
+m51 C_out: [0 0; 0 0]
+m52 A_in: [20 21; 21 22]
+m52 B_in: [1 0; 0 1]
+m52 C_out: [20 21; 21 22]
+m53 A_in: [20 21; 21 22]
+m53 B_in: [0 0; 0 0]
+m53 C_out: [0 0; 0 0]
+m54 A_in: [20 21; 21 22]
+m54 B_in: [0 0; 0 0]
+m54 C_out: [0 0; 0 0]
+m55 A_in: [20 21; 21 22]
+m55 B_in: [0 0; 0 0]
+m55 C_out: [0 0; 0 0]
+m56 A_in: [22 23; 23 24]
+m56 B_in: [0 0; 0 0]
+m56 C_out: [0 0; 0 0]
+m57 A_in: [22 23; 23 24]
+m57 B_in: [0 0; 0 0]
+m57 C_out: [0 0; 0 0]
+m58 A_in: [22 23; 23 24]
+m58 B_in: [0 0; 0 0]
+m58 C_out: [0 0; 0 0]
+m59 A_in: [22 23; 23 24]
+m59 B_in: [0 0; 0 0]
+m59 C_out: [0 0; 0 0]
+m60 A_in: [22 23; 23 24]
+m60 B_in: [1 0; 0 1]
+m60 C_out: [22 23; 23 24]
+m61 A_in: [22 23; 23 24]
+m61 B_in: [0 0; 0 0]
+m61 C_out: [0 0; 0 0]
+m62 A_in: [22 23; 23 24]
+m62 B_in: [0 0; 0 0]
+m62 C_out: [0 0; 0 0]
+m63 A_in: [22 23; 23 24]
+m63 B_in: [0 0; 0 0]
+m63 C_out: [0 0; 0 0]
+TB Matrix A:
+  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 
+  1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 
+  2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 
+  3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+  4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 
+  5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 
+  6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 
+  7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 
+  8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 
+  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 
+  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 
+  11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 
+  12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 
+  13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 
+  14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 
+  15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 
+TB Matrix B:
+  1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+TB Matrix C:
+  0 1 2 3 4 5 6 7 0 0 0 0 0 0 0 0 
+  1 2 3 4 5 6 7 8 0 0 0 0 0 0 0 0 
+  2 3 4 5 6 7 8 9 0 0 0 0 0 0 0 0 
+  3 4 5 6 7 8 9 10 0 0 0 0 0 0 0 0 
+  4 5 6 7 8 9 10 11 0 0 0 0 0 0 0 0 
+  5 6 7 8 9 10 11 12 0 0 0 0 0 0 0 0 
+  6 7 8 9 10 11 12 13 0 0 0 0 0 0 0 0 
+  7 8 9 10 11 12 13 14 0 0 0 0 0 0 0 0 
+  8 9 10 11 12 13 14 15 0 0 0 0 0 0 0 0 
+  9 10 11 12 13 14 15 16 0 0 0 0 0 0 0 0 
+  10 11 12 13 14 15 16 17 0 0 0 0 0 0 0 0 
+  11 12 13 14 15 16 17 18 0 0 0 0 0 0 0 0 
+  12 13 14 15 16 17 18 19 0 0 0 0 0 0 0 0 
+  13 14 15 16 17 18 19 20 0 0 0 0 0 0 0 0 
+  14 15 16 17 18 19 20 21 0 0 0 0 0 0 0 0 
+  15 16 17 18 19 20 21 22 0 0 0 0 0 0 0 0 
+-----------------------------------------------------
+TB Time 125000 | rst=0 start=1 done=0
+----- Multipliers inputs and outputs at time 125000 (state 0) (pass_j 5)-----
+m0 A_in: [8 9; 9 10]
+m0 B_in: [0 0; 0 0]
+m0 C_out: [0 0; 0 0]
+m1 A_in: [8 9; 9 10]
+m1 B_in: [0 0; 0 0]
+m1 C_out: [0 0; 0 0]
+m2 A_in: [8 9; 9 10]
+m2 B_in: [0 0; 0 0]
+m2 C_out: [0 0; 0 0]
+m3 A_in: [8 9; 9 10]
+m3 B_in: [0 0; 0 0]
+m3 C_out: [0 0; 0 0]
+m4 A_in: [8 9; 9 10]
+m4 B_in: [1 0; 0 1]
+m4 C_out: [8 9; 9 10]
+m5 A_in: [8 9; 9 10]
+m5 B_in: [0 0; 0 0]
+m5 C_out: [0 0; 0 0]
+m6 A_in: [8 9; 9 10]
+m6 B_in: [0 0; 0 0]
+m6 C_out: [0 0; 0 0]
+m7 A_in: [8 9; 9 10]
+m7 B_in: [0 0; 0 0]
+m7 C_out: [0 0; 0 0]
+m8 A_in: [10 11; 11 12]
+m8 B_in: [0 0; 0 0]
+m8 C_out: [0 0; 0 0]
+m9 A_in: [10 11; 11 12]
+m9 B_in: [0 0; 0 0]
+m9 C_out: [0 0; 0 0]
+m10 A_in: [10 11; 11 12]
+m10 B_in: [0 0; 0 0]
+m10 C_out: [0 0; 0 0]
+m11 A_in: [10 11; 11 12]
+m11 B_in: [0 0; 0 0]
+m11 C_out: [0 0; 0 0]
+m12 A_in: [10 11; 11 12]
+m12 B_in: [1 0; 0 1]
+m12 C_out: [10 11; 11 12]
+m13 A_in: [10 11; 11 12]
+m13 B_in: [0 0; 0 0]
+m13 C_out: [0 0; 0 0]
+m14 A_in: [10 11; 11 12]
+m14 B_in: [0 0; 0 0]
+m14 C_out: [0 0; 0 0]
+m15 A_in: [10 11; 11 12]
+m15 B_in: [0 0; 0 0]
+m15 C_out: [0 0; 0 0]
+m16 A_in: [12 13; 13 14]
+m16 B_in: [0 0; 0 0]
+m16 C_out: [0 0; 0 0]
+m17 A_in: [12 13; 13 14]
+m17 B_in: [0 0; 0 0]
+m17 C_out: [0 0; 0 0]
+m18 A_in: [12 13; 13 14]
+m18 B_in: [0 0; 0 0]
+m18 C_out: [0 0; 0 0]
+m19 A_in: [12 13; 13 14]
+m19 B_in: [0 0; 0 0]
+m19 C_out: [0 0; 0 0]
+m20 A_in: [12 13; 13 14]
+m20 B_in: [1 0; 0 1]
+m20 C_out: [12 13; 13 14]
+m21 A_in: [12 13; 13 14]
+m21 B_in: [0 0; 0 0]
+m21 C_out: [0 0; 0 0]
+m22 A_in: [12 13; 13 14]
+m22 B_in: [0 0; 0 0]
+m22 C_out: [0 0; 0 0]
+m23 A_in: [12 13; 13 14]
+m23 B_in: [0 0; 0 0]
+m23 C_out: [0 0; 0 0]
+m24 A_in: [14 15; 15 16]
+m24 B_in: [0 0; 0 0]
+m24 C_out: [0 0; 0 0]
+m25 A_in: [14 15; 15 16]
+m25 B_in: [0 0; 0 0]
+m25 C_out: [0 0; 0 0]
+m26 A_in: [14 15; 15 16]
+m26 B_in: [0 0; 0 0]
+m26 C_out: [0 0; 0 0]
+m27 A_in: [14 15; 15 16]
+m27 B_in: [0 0; 0 0]
+m27 C_out: [0 0; 0 0]
+m28 A_in: [14 15; 15 16]
+m28 B_in: [1 0; 0 1]
+m28 C_out: [14 15; 15 16]
+m29 A_in: [14 15; 15 16]
+m29 B_in: [0 0; 0 0]
+m29 C_out: [0 0; 0 0]
+m30 A_in: [14 15; 15 16]
+m30 B_in: [0 0; 0 0]
+m30 C_out: [0 0; 0 0]
+m31 A_in: [14 15; 15 16]
+m31 B_in: [0 0; 0 0]
+m31 C_out: [0 0; 0 0]
+m32 A_in: [16 17; 17 18]
+m32 B_in: [0 0; 0 0]
+m32 C_out: [0 0; 0 0]
+m33 A_in: [16 17; 17 18]
+m33 B_in: [0 0; 0 0]
+m33 C_out: [0 0; 0 0]
+m34 A_in: [16 17; 17 18]
+m34 B_in: [0 0; 0 0]
+m34 C_out: [0 0; 0 0]
+m35 A_in: [16 17; 17 18]
+m35 B_in: [0 0; 0 0]
+m35 C_out: [0 0; 0 0]
+m36 A_in: [16 17; 17 18]
+m36 B_in: [1 0; 0 1]
+m36 C_out: [16 17; 17 18]
+m37 A_in: [16 17; 17 18]
+m37 B_in: [0 0; 0 0]
+m37 C_out: [0 0; 0 0]
+m38 A_in: [16 17; 17 18]
+m38 B_in: [0 0; 0 0]
+m38 C_out: [0 0; 0 0]
+m39 A_in: [16 17; 17 18]
+m39 B_in: [0 0; 0 0]
+m39 C_out: [0 0; 0 0]
+m40 A_in: [18 19; 19 20]
+m40 B_in: [0 0; 0 0]
+m40 C_out: [0 0; 0 0]
+m41 A_in: [18 19; 19 20]
+m41 B_in: [0 0; 0 0]
+m41 C_out: [0 0; 0 0]
+m42 A_in: [18 19; 19 20]
+m42 B_in: [0 0; 0 0]
+m42 C_out: [0 0; 0 0]
+m43 A_in: [18 19; 19 20]
+m43 B_in: [0 0; 0 0]
+m43 C_out: [0 0; 0 0]
+m44 A_in: [18 19; 19 20]
+m44 B_in: [1 0; 0 1]
+m44 C_out: [18 19; 19 20]
+m45 A_in: [18 19; 19 20]
+m45 B_in: [0 0; 0 0]
+m45 C_out: [0 0; 0 0]
+m46 A_in: [18 19; 19 20]
+m46 B_in: [0 0; 0 0]
+m46 C_out: [0 0; 0 0]
+m47 A_in: [18 19; 19 20]
+m47 B_in: [0 0; 0 0]
+m47 C_out: [0 0; 0 0]
+m48 A_in: [20 21; 21 22]
+m48 B_in: [0 0; 0 0]
+m48 C_out: [0 0; 0 0]
+m49 A_in: [20 21; 21 22]
+m49 B_in: [0 0; 0 0]
+m49 C_out: [0 0; 0 0]
+m50 A_in: [20 21; 21 22]
+m50 B_in: [0 0; 0 0]
+m50 C_out: [0 0; 0 0]
+m51 A_in: [20 21; 21 22]
+m51 B_in: [0 0; 0 0]
+m51 C_out: [0 0; 0 0]
+m52 A_in: [20 21; 21 22]
+m52 B_in: [1 0; 0 1]
+m52 C_out: [20 21; 21 22]
+m53 A_in: [20 21; 21 22]
+m53 B_in: [0 0; 0 0]
+m53 C_out: [0 0; 0 0]
+m54 A_in: [20 21; 21 22]
+m54 B_in: [0 0; 0 0]
+m54 C_out: [0 0; 0 0]
+m55 A_in: [20 21; 21 22]
+m55 B_in: [0 0; 0 0]
+m55 C_out: [0 0; 0 0]
+m56 A_in: [22 23; 23 24]
+m56 B_in: [0 0; 0 0]
+m56 C_out: [0 0; 0 0]
+m57 A_in: [22 23; 23 24]
+m57 B_in: [0 0; 0 0]
+m57 C_out: [0 0; 0 0]
+m58 A_in: [22 23; 23 24]
+m58 B_in: [0 0; 0 0]
+m58 C_out: [0 0; 0 0]
+m59 A_in: [22 23; 23 24]
+m59 B_in: [0 0; 0 0]
+m59 C_out: [0 0; 0 0]
+m60 A_in: [22 23; 23 24]
+m60 B_in: [1 0; 0 1]
+m60 C_out: [22 23; 23 24]
+m61 A_in: [22 23; 23 24]
+m61 B_in: [0 0; 0 0]
+m61 C_out: [0 0; 0 0]
+m62 A_in: [22 23; 23 24]
+m62 B_in: [0 0; 0 0]
+m62 C_out: [0 0; 0 0]
+m63 A_in: [22 23; 23 24]
+m63 B_in: [0 0; 0 0]
+m63 C_out: [0 0; 0 0]
+TB Matrix A:
+  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 
+  1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 
+  2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 
+  3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+  4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 
+  5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 
+  6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 
+  7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 
+  8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 
+  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 
+  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 
+  11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 
+  12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 
+  13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 
+  14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 
+  15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 
+TB Matrix B:
+  1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+TB Matrix C:
+  0 1 2 3 4 5 6 7 8 9 0 0 0 0 0 0 
+  1 2 3 4 5 6 7 8 9 10 0 0 0 0 0 0 
+  2 3 4 5 6 7 8 9 10 11 0 0 0 0 0 0 
+  3 4 5 6 7 8 9 10 11 12 0 0 0 0 0 0 
+  4 5 6 7 8 9 10 11 12 13 0 0 0 0 0 0 
+  5 6 7 8 9 10 11 12 13 14 0 0 0 0 0 0 
+  6 7 8 9 10 11 12 13 14 15 0 0 0 0 0 0 
+  7 8 9 10 11 12 13 14 15 16 0 0 0 0 0 0 
+  8 9 10 11 12 13 14 15 16 17 0 0 0 0 0 0 
+  9 10 11 12 13 14 15 16 17 18 0 0 0 0 0 0 
+  10 11 12 13 14 15 16 17 18 19 0 0 0 0 0 0 
+  11 12 13 14 15 16 17 18 19 20 0 0 0 0 0 0 
+  12 13 14 15 16 17 18 19 20 21 0 0 0 0 0 0 
+  13 14 15 16 17 18 19 20 21 22 0 0 0 0 0 0 
+  14 15 16 17 18 19 20 21 22 23 0 0 0 0 0 0 
+  15 16 17 18 19 20 21 22 23 24 0 0 0 0 0 0 
+-----------------------------------------------------
+TB Time 135000 | rst=0 start=1 done=0
+----- Multipliers inputs and outputs at time 135000 (state 1) (pass_j 5)-----
+m0 A_in: [10 11; 11 12]
+m0 B_in: [0 0; 0 0]
+m0 C_out: [0 0; 0 0]
+m1 A_in: [10 11; 11 12]
+m1 B_in: [0 0; 0 0]
+m1 C_out: [0 0; 0 0]
+m2 A_in: [10 11; 11 12]
+m2 B_in: [0 0; 0 0]
+m2 C_out: [0 0; 0 0]
+m3 A_in: [10 11; 11 12]
+m3 B_in: [0 0; 0 0]
+m3 C_out: [0 0; 0 0]
+m4 A_in: [10 11; 11 12]
+m4 B_in: [0 0; 0 0]
+m4 C_out: [0 0; 0 0]
+m5 A_in: [10 11; 11 12]
+m5 B_in: [1 0; 0 1]
+m5 C_out: [10 11; 11 12]
+m6 A_in: [10 11; 11 12]
+m6 B_in: [0 0; 0 0]
+m6 C_out: [0 0; 0 0]
+m7 A_in: [10 11; 11 12]
+m7 B_in: [0 0; 0 0]
+m7 C_out: [0 0; 0 0]
+m8 A_in: [12 13; 13 14]
+m8 B_in: [0 0; 0 0]
+m8 C_out: [0 0; 0 0]
+m9 A_in: [12 13; 13 14]
+m9 B_in: [0 0; 0 0]
+m9 C_out: [0 0; 0 0]
+m10 A_in: [12 13; 13 14]
+m10 B_in: [0 0; 0 0]
+m10 C_out: [0 0; 0 0]
+m11 A_in: [12 13; 13 14]
+m11 B_in: [0 0; 0 0]
+m11 C_out: [0 0; 0 0]
+m12 A_in: [12 13; 13 14]
+m12 B_in: [0 0; 0 0]
+m12 C_out: [0 0; 0 0]
+m13 A_in: [12 13; 13 14]
+m13 B_in: [1 0; 0 1]
+m13 C_out: [12 13; 13 14]
+m14 A_in: [12 13; 13 14]
+m14 B_in: [0 0; 0 0]
+m14 C_out: [0 0; 0 0]
+m15 A_in: [12 13; 13 14]
+m15 B_in: [0 0; 0 0]
+m15 C_out: [0 0; 0 0]
+m16 A_in: [14 15; 15 16]
+m16 B_in: [0 0; 0 0]
+m16 C_out: [0 0; 0 0]
+m17 A_in: [14 15; 15 16]
+m17 B_in: [0 0; 0 0]
+m17 C_out: [0 0; 0 0]
+m18 A_in: [14 15; 15 16]
+m18 B_in: [0 0; 0 0]
+m18 C_out: [0 0; 0 0]
+m19 A_in: [14 15; 15 16]
+m19 B_in: [0 0; 0 0]
+m19 C_out: [0 0; 0 0]
+m20 A_in: [14 15; 15 16]
+m20 B_in: [0 0; 0 0]
+m20 C_out: [0 0; 0 0]
+m21 A_in: [14 15; 15 16]
+m21 B_in: [1 0; 0 1]
+m21 C_out: [14 15; 15 16]
+m22 A_in: [14 15; 15 16]
+m22 B_in: [0 0; 0 0]
+m22 C_out: [0 0; 0 0]
+m23 A_in: [14 15; 15 16]
+m23 B_in: [0 0; 0 0]
+m23 C_out: [0 0; 0 0]
+m24 A_in: [16 17; 17 18]
+m24 B_in: [0 0; 0 0]
+m24 C_out: [0 0; 0 0]
+m25 A_in: [16 17; 17 18]
+m25 B_in: [0 0; 0 0]
+m25 C_out: [0 0; 0 0]
+m26 A_in: [16 17; 17 18]
+m26 B_in: [0 0; 0 0]
+m26 C_out: [0 0; 0 0]
+m27 A_in: [16 17; 17 18]
+m27 B_in: [0 0; 0 0]
+m27 C_out: [0 0; 0 0]
+m28 A_in: [16 17; 17 18]
+m28 B_in: [0 0; 0 0]
+m28 C_out: [0 0; 0 0]
+m29 A_in: [16 17; 17 18]
+m29 B_in: [1 0; 0 1]
+m29 C_out: [16 17; 17 18]
+m30 A_in: [16 17; 17 18]
+m30 B_in: [0 0; 0 0]
+m30 C_out: [0 0; 0 0]
+m31 A_in: [16 17; 17 18]
+m31 B_in: [0 0; 0 0]
+m31 C_out: [0 0; 0 0]
+m32 A_in: [18 19; 19 20]
+m32 B_in: [0 0; 0 0]
+m32 C_out: [0 0; 0 0]
+m33 A_in: [18 19; 19 20]
+m33 B_in: [0 0; 0 0]
+m33 C_out: [0 0; 0 0]
+m34 A_in: [18 19; 19 20]
+m34 B_in: [0 0; 0 0]
+m34 C_out: [0 0; 0 0]
+m35 A_in: [18 19; 19 20]
+m35 B_in: [0 0; 0 0]
+m35 C_out: [0 0; 0 0]
+m36 A_in: [18 19; 19 20]
+m36 B_in: [0 0; 0 0]
+m36 C_out: [0 0; 0 0]
+m37 A_in: [18 19; 19 20]
+m37 B_in: [1 0; 0 1]
+m37 C_out: [18 19; 19 20]
+m38 A_in: [18 19; 19 20]
+m38 B_in: [0 0; 0 0]
+m38 C_out: [0 0; 0 0]
+m39 A_in: [18 19; 19 20]
+m39 B_in: [0 0; 0 0]
+m39 C_out: [0 0; 0 0]
+m40 A_in: [20 21; 21 22]
+m40 B_in: [0 0; 0 0]
+m40 C_out: [0 0; 0 0]
+m41 A_in: [20 21; 21 22]
+m41 B_in: [0 0; 0 0]
+m41 C_out: [0 0; 0 0]
+m42 A_in: [20 21; 21 22]
+m42 B_in: [0 0; 0 0]
+m42 C_out: [0 0; 0 0]
+m43 A_in: [20 21; 21 22]
+m43 B_in: [0 0; 0 0]
+m43 C_out: [0 0; 0 0]
+m44 A_in: [20 21; 21 22]
+m44 B_in: [0 0; 0 0]
+m44 C_out: [0 0; 0 0]
+m45 A_in: [20 21; 21 22]
+m45 B_in: [1 0; 0 1]
+m45 C_out: [20 21; 21 22]
+m46 A_in: [20 21; 21 22]
+m46 B_in: [0 0; 0 0]
+m46 C_out: [0 0; 0 0]
+m47 A_in: [20 21; 21 22]
+m47 B_in: [0 0; 0 0]
+m47 C_out: [0 0; 0 0]
+m48 A_in: [22 23; 23 24]
+m48 B_in: [0 0; 0 0]
+m48 C_out: [0 0; 0 0]
+m49 A_in: [22 23; 23 24]
+m49 B_in: [0 0; 0 0]
+m49 C_out: [0 0; 0 0]
+m50 A_in: [22 23; 23 24]
+m50 B_in: [0 0; 0 0]
+m50 C_out: [0 0; 0 0]
+m51 A_in: [22 23; 23 24]
+m51 B_in: [0 0; 0 0]
+m51 C_out: [0 0; 0 0]
+m52 A_in: [22 23; 23 24]
+m52 B_in: [0 0; 0 0]
+m52 C_out: [0 0; 0 0]
+m53 A_in: [22 23; 23 24]
+m53 B_in: [1 0; 0 1]
+m53 C_out: [22 23; 23 24]
+m54 A_in: [22 23; 23 24]
+m54 B_in: [0 0; 0 0]
+m54 C_out: [0 0; 0 0]
+m55 A_in: [22 23; 23 24]
+m55 B_in: [0 0; 0 0]
+m55 C_out: [0 0; 0 0]
+m56 A_in: [24 25; 25 26]
+m56 B_in: [0 0; 0 0]
+m56 C_out: [0 0; 0 0]
+m57 A_in: [24 25; 25 26]
+m57 B_in: [0 0; 0 0]
+m57 C_out: [0 0; 0 0]
+m58 A_in: [24 25; 25 26]
+m58 B_in: [0 0; 0 0]
+m58 C_out: [0 0; 0 0]
+m59 A_in: [24 25; 25 26]
+m59 B_in: [0 0; 0 0]
+m59 C_out: [0 0; 0 0]
+m60 A_in: [24 25; 25 26]
+m60 B_in: [0 0; 0 0]
+m60 C_out: [0 0; 0 0]
+m61 A_in: [24 25; 25 26]
+m61 B_in: [1 0; 0 1]
+m61 C_out: [24 25; 25 26]
+m62 A_in: [24 25; 25 26]
+m62 B_in: [0 0; 0 0]
+m62 C_out: [0 0; 0 0]
+m63 A_in: [24 25; 25 26]
+m63 B_in: [0 0; 0 0]
+m63 C_out: [0 0; 0 0]
+TB Matrix A:
+  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 
+  1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 
+  2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 
+  3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+  4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 
+  5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 
+  6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 
+  7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 
+  8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 
+  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 
+  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 
+  11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 
+  12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 
+  13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 
+  14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 
+  15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 
+TB Matrix B:
+  1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+TB Matrix C:
+  0 1 2 3 4 5 6 7 8 9 0 0 0 0 0 0 
+  1 2 3 4 5 6 7 8 9 10 0 0 0 0 0 0 
+  2 3 4 5 6 7 8 9 10 11 0 0 0 0 0 0 
+  3 4 5 6 7 8 9 10 11 12 0 0 0 0 0 0 
+  4 5 6 7 8 9 10 11 12 13 0 0 0 0 0 0 
+  5 6 7 8 9 10 11 12 13 14 0 0 0 0 0 0 
+  6 7 8 9 10 11 12 13 14 15 0 0 0 0 0 0 
+  7 8 9 10 11 12 13 14 15 16 0 0 0 0 0 0 
+  8 9 10 11 12 13 14 15 16 17 0 0 0 0 0 0 
+  9 10 11 12 13 14 15 16 17 18 0 0 0 0 0 0 
+  10 11 12 13 14 15 16 17 18 19 0 0 0 0 0 0 
+  11 12 13 14 15 16 17 18 19 20 0 0 0 0 0 0 
+  12 13 14 15 16 17 18 19 20 21 0 0 0 0 0 0 
+  13 14 15 16 17 18 19 20 21 22 0 0 0 0 0 0 
+  14 15 16 17 18 19 20 21 22 23 0 0 0 0 0 0 
+  15 16 17 18 19 20 21 22 23 24 0 0 0 0 0 0 
+-----------------------------------------------------
+TB Time 145000 | rst=0 start=1 done=0
+----- Multipliers inputs and outputs at time 145000 (state 0) (pass_j 6)-----
+m0 A_in: [10 11; 11 12]
+m0 B_in: [0 0; 0 0]
+m0 C_out: [0 0; 0 0]
+m1 A_in: [10 11; 11 12]
+m1 B_in: [0 0; 0 0]
+m1 C_out: [0 0; 0 0]
+m2 A_in: [10 11; 11 12]
+m2 B_in: [0 0; 0 0]
+m2 C_out: [0 0; 0 0]
+m3 A_in: [10 11; 11 12]
+m3 B_in: [0 0; 0 0]
+m3 C_out: [0 0; 0 0]
+m4 A_in: [10 11; 11 12]
+m4 B_in: [0 0; 0 0]
+m4 C_out: [0 0; 0 0]
+m5 A_in: [10 11; 11 12]
+m5 B_in: [1 0; 0 1]
+m5 C_out: [10 11; 11 12]
+m6 A_in: [10 11; 11 12]
+m6 B_in: [0 0; 0 0]
+m6 C_out: [0 0; 0 0]
+m7 A_in: [10 11; 11 12]
+m7 B_in: [0 0; 0 0]
+m7 C_out: [0 0; 0 0]
+m8 A_in: [12 13; 13 14]
+m8 B_in: [0 0; 0 0]
+m8 C_out: [0 0; 0 0]
+m9 A_in: [12 13; 13 14]
+m9 B_in: [0 0; 0 0]
+m9 C_out: [0 0; 0 0]
+m10 A_in: [12 13; 13 14]
+m10 B_in: [0 0; 0 0]
+m10 C_out: [0 0; 0 0]
+m11 A_in: [12 13; 13 14]
+m11 B_in: [0 0; 0 0]
+m11 C_out: [0 0; 0 0]
+m12 A_in: [12 13; 13 14]
+m12 B_in: [0 0; 0 0]
+m12 C_out: [0 0; 0 0]
+m13 A_in: [12 13; 13 14]
+m13 B_in: [1 0; 0 1]
+m13 C_out: [12 13; 13 14]
+m14 A_in: [12 13; 13 14]
+m14 B_in: [0 0; 0 0]
+m14 C_out: [0 0; 0 0]
+m15 A_in: [12 13; 13 14]
+m15 B_in: [0 0; 0 0]
+m15 C_out: [0 0; 0 0]
+m16 A_in: [14 15; 15 16]
+m16 B_in: [0 0; 0 0]
+m16 C_out: [0 0; 0 0]
+m17 A_in: [14 15; 15 16]
+m17 B_in: [0 0; 0 0]
+m17 C_out: [0 0; 0 0]
+m18 A_in: [14 15; 15 16]
+m18 B_in: [0 0; 0 0]
+m18 C_out: [0 0; 0 0]
+m19 A_in: [14 15; 15 16]
+m19 B_in: [0 0; 0 0]
+m19 C_out: [0 0; 0 0]
+m20 A_in: [14 15; 15 16]
+m20 B_in: [0 0; 0 0]
+m20 C_out: [0 0; 0 0]
+m21 A_in: [14 15; 15 16]
+m21 B_in: [1 0; 0 1]
+m21 C_out: [14 15; 15 16]
+m22 A_in: [14 15; 15 16]
+m22 B_in: [0 0; 0 0]
+m22 C_out: [0 0; 0 0]
+m23 A_in: [14 15; 15 16]
+m23 B_in: [0 0; 0 0]
+m23 C_out: [0 0; 0 0]
+m24 A_in: [16 17; 17 18]
+m24 B_in: [0 0; 0 0]
+m24 C_out: [0 0; 0 0]
+m25 A_in: [16 17; 17 18]
+m25 B_in: [0 0; 0 0]
+m25 C_out: [0 0; 0 0]
+m26 A_in: [16 17; 17 18]
+m26 B_in: [0 0; 0 0]
+m26 C_out: [0 0; 0 0]
+m27 A_in: [16 17; 17 18]
+m27 B_in: [0 0; 0 0]
+m27 C_out: [0 0; 0 0]
+m28 A_in: [16 17; 17 18]
+m28 B_in: [0 0; 0 0]
+m28 C_out: [0 0; 0 0]
+m29 A_in: [16 17; 17 18]
+m29 B_in: [1 0; 0 1]
+m29 C_out: [16 17; 17 18]
+m30 A_in: [16 17; 17 18]
+m30 B_in: [0 0; 0 0]
+m30 C_out: [0 0; 0 0]
+m31 A_in: [16 17; 17 18]
+m31 B_in: [0 0; 0 0]
+m31 C_out: [0 0; 0 0]
+m32 A_in: [18 19; 19 20]
+m32 B_in: [0 0; 0 0]
+m32 C_out: [0 0; 0 0]
+m33 A_in: [18 19; 19 20]
+m33 B_in: [0 0; 0 0]
+m33 C_out: [0 0; 0 0]
+m34 A_in: [18 19; 19 20]
+m34 B_in: [0 0; 0 0]
+m34 C_out: [0 0; 0 0]
+m35 A_in: [18 19; 19 20]
+m35 B_in: [0 0; 0 0]
+m35 C_out: [0 0; 0 0]
+m36 A_in: [18 19; 19 20]
+m36 B_in: [0 0; 0 0]
+m36 C_out: [0 0; 0 0]
+m37 A_in: [18 19; 19 20]
+m37 B_in: [1 0; 0 1]
+m37 C_out: [18 19; 19 20]
+m38 A_in: [18 19; 19 20]
+m38 B_in: [0 0; 0 0]
+m38 C_out: [0 0; 0 0]
+m39 A_in: [18 19; 19 20]
+m39 B_in: [0 0; 0 0]
+m39 C_out: [0 0; 0 0]
+m40 A_in: [20 21; 21 22]
+m40 B_in: [0 0; 0 0]
+m40 C_out: [0 0; 0 0]
+m41 A_in: [20 21; 21 22]
+m41 B_in: [0 0; 0 0]
+m41 C_out: [0 0; 0 0]
+m42 A_in: [20 21; 21 22]
+m42 B_in: [0 0; 0 0]
+m42 C_out: [0 0; 0 0]
+m43 A_in: [20 21; 21 22]
+m43 B_in: [0 0; 0 0]
+m43 C_out: [0 0; 0 0]
+m44 A_in: [20 21; 21 22]
+m44 B_in: [0 0; 0 0]
+m44 C_out: [0 0; 0 0]
+m45 A_in: [20 21; 21 22]
+m45 B_in: [1 0; 0 1]
+m45 C_out: [20 21; 21 22]
+m46 A_in: [20 21; 21 22]
+m46 B_in: [0 0; 0 0]
+m46 C_out: [0 0; 0 0]
+m47 A_in: [20 21; 21 22]
+m47 B_in: [0 0; 0 0]
+m47 C_out: [0 0; 0 0]
+m48 A_in: [22 23; 23 24]
+m48 B_in: [0 0; 0 0]
+m48 C_out: [0 0; 0 0]
+m49 A_in: [22 23; 23 24]
+m49 B_in: [0 0; 0 0]
+m49 C_out: [0 0; 0 0]
+m50 A_in: [22 23; 23 24]
+m50 B_in: [0 0; 0 0]
+m50 C_out: [0 0; 0 0]
+m51 A_in: [22 23; 23 24]
+m51 B_in: [0 0; 0 0]
+m51 C_out: [0 0; 0 0]
+m52 A_in: [22 23; 23 24]
+m52 B_in: [0 0; 0 0]
+m52 C_out: [0 0; 0 0]
+m53 A_in: [22 23; 23 24]
+m53 B_in: [1 0; 0 1]
+m53 C_out: [22 23; 23 24]
+m54 A_in: [22 23; 23 24]
+m54 B_in: [0 0; 0 0]
+m54 C_out: [0 0; 0 0]
+m55 A_in: [22 23; 23 24]
+m55 B_in: [0 0; 0 0]
+m55 C_out: [0 0; 0 0]
+m56 A_in: [24 25; 25 26]
+m56 B_in: [0 0; 0 0]
+m56 C_out: [0 0; 0 0]
+m57 A_in: [24 25; 25 26]
+m57 B_in: [0 0; 0 0]
+m57 C_out: [0 0; 0 0]
+m58 A_in: [24 25; 25 26]
+m58 B_in: [0 0; 0 0]
+m58 C_out: [0 0; 0 0]
+m59 A_in: [24 25; 25 26]
+m59 B_in: [0 0; 0 0]
+m59 C_out: [0 0; 0 0]
+m60 A_in: [24 25; 25 26]
+m60 B_in: [0 0; 0 0]
+m60 C_out: [0 0; 0 0]
+m61 A_in: [24 25; 25 26]
+m61 B_in: [1 0; 0 1]
+m61 C_out: [24 25; 25 26]
+m62 A_in: [24 25; 25 26]
+m62 B_in: [0 0; 0 0]
+m62 C_out: [0 0; 0 0]
+m63 A_in: [24 25; 25 26]
+m63 B_in: [0 0; 0 0]
+m63 C_out: [0 0; 0 0]
+TB Matrix A:
+  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 
+  1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 
+  2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 
+  3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+  4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 
+  5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 
+  6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 
+  7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 
+  8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 
+  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 
+  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 
+  11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 
+  12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 
+  13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 
+  14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 
+  15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 
+TB Matrix B:
+  1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+TB Matrix C:
+  0 1 2 3 4 5 6 7 8 9 10 11 0 0 0 0 
+  1 2 3 4 5 6 7 8 9 10 11 12 0 0 0 0 
+  2 3 4 5 6 7 8 9 10 11 12 13 0 0 0 0 
+  3 4 5 6 7 8 9 10 11 12 13 14 0 0 0 0 
+  4 5 6 7 8 9 10 11 12 13 14 15 0 0 0 0 
+  5 6 7 8 9 10 11 12 13 14 15 16 0 0 0 0 
+  6 7 8 9 10 11 12 13 14 15 16 17 0 0 0 0 
+  7 8 9 10 11 12 13 14 15 16 17 18 0 0 0 0 
+  8 9 10 11 12 13 14 15 16 17 18 19 0 0 0 0 
+  9 10 11 12 13 14 15 16 17 18 19 20 0 0 0 0 
+  10 11 12 13 14 15 16 17 18 19 20 21 0 0 0 0 
+  11 12 13 14 15 16 17 18 19 20 21 22 0 0 0 0 
+  12 13 14 15 16 17 18 19 20 21 22 23 0 0 0 0 
+  13 14 15 16 17 18 19 20 21 22 23 24 0 0 0 0 
+  14 15 16 17 18 19 20 21 22 23 24 25 0 0 0 0 
+  15 16 17 18 19 20 21 22 23 24 25 26 0 0 0 0 
+-----------------------------------------------------
+TB Time 155000 | rst=0 start=1 done=0
+----- Multipliers inputs and outputs at time 155000 (state 1) (pass_j 6)-----
+m0 A_in: [12 13; 13 14]
+m0 B_in: [0 0; 0 0]
+m0 C_out: [0 0; 0 0]
+m1 A_in: [12 13; 13 14]
+m1 B_in: [0 0; 0 0]
+m1 C_out: [0 0; 0 0]
+m2 A_in: [12 13; 13 14]
+m2 B_in: [0 0; 0 0]
+m2 C_out: [0 0; 0 0]
+m3 A_in: [12 13; 13 14]
+m3 B_in: [0 0; 0 0]
+m3 C_out: [0 0; 0 0]
+m4 A_in: [12 13; 13 14]
+m4 B_in: [0 0; 0 0]
+m4 C_out: [0 0; 0 0]
+m5 A_in: [12 13; 13 14]
+m5 B_in: [0 0; 0 0]
+m5 C_out: [0 0; 0 0]
+m6 A_in: [12 13; 13 14]
+m6 B_in: [1 0; 0 1]
+m6 C_out: [12 13; 13 14]
+m7 A_in: [12 13; 13 14]
+m7 B_in: [0 0; 0 0]
+m7 C_out: [0 0; 0 0]
+m8 A_in: [14 15; 15 16]
+m8 B_in: [0 0; 0 0]
+m8 C_out: [0 0; 0 0]
+m9 A_in: [14 15; 15 16]
+m9 B_in: [0 0; 0 0]
+m9 C_out: [0 0; 0 0]
+m10 A_in: [14 15; 15 16]
+m10 B_in: [0 0; 0 0]
+m10 C_out: [0 0; 0 0]
+m11 A_in: [14 15; 15 16]
+m11 B_in: [0 0; 0 0]
+m11 C_out: [0 0; 0 0]
+m12 A_in: [14 15; 15 16]
+m12 B_in: [0 0; 0 0]
+m12 C_out: [0 0; 0 0]
+m13 A_in: [14 15; 15 16]
+m13 B_in: [0 0; 0 0]
+m13 C_out: [0 0; 0 0]
+m14 A_in: [14 15; 15 16]
+m14 B_in: [1 0; 0 1]
+m14 C_out: [14 15; 15 16]
+m15 A_in: [14 15; 15 16]
+m15 B_in: [0 0; 0 0]
+m15 C_out: [0 0; 0 0]
+m16 A_in: [16 17; 17 18]
+m16 B_in: [0 0; 0 0]
+m16 C_out: [0 0; 0 0]
+m17 A_in: [16 17; 17 18]
+m17 B_in: [0 0; 0 0]
+m17 C_out: [0 0; 0 0]
+m18 A_in: [16 17; 17 18]
+m18 B_in: [0 0; 0 0]
+m18 C_out: [0 0; 0 0]
+m19 A_in: [16 17; 17 18]
+m19 B_in: [0 0; 0 0]
+m19 C_out: [0 0; 0 0]
+m20 A_in: [16 17; 17 18]
+m20 B_in: [0 0; 0 0]
+m20 C_out: [0 0; 0 0]
+m21 A_in: [16 17; 17 18]
+m21 B_in: [0 0; 0 0]
+m21 C_out: [0 0; 0 0]
+m22 A_in: [16 17; 17 18]
+m22 B_in: [1 0; 0 1]
+m22 C_out: [16 17; 17 18]
+m23 A_in: [16 17; 17 18]
+m23 B_in: [0 0; 0 0]
+m23 C_out: [0 0; 0 0]
+m24 A_in: [18 19; 19 20]
+m24 B_in: [0 0; 0 0]
+m24 C_out: [0 0; 0 0]
+m25 A_in: [18 19; 19 20]
+m25 B_in: [0 0; 0 0]
+m25 C_out: [0 0; 0 0]
+m26 A_in: [18 19; 19 20]
+m26 B_in: [0 0; 0 0]
+m26 C_out: [0 0; 0 0]
+m27 A_in: [18 19; 19 20]
+m27 B_in: [0 0; 0 0]
+m27 C_out: [0 0; 0 0]
+m28 A_in: [18 19; 19 20]
+m28 B_in: [0 0; 0 0]
+m28 C_out: [0 0; 0 0]
+m29 A_in: [18 19; 19 20]
+m29 B_in: [0 0; 0 0]
+m29 C_out: [0 0; 0 0]
+m30 A_in: [18 19; 19 20]
+m30 B_in: [1 0; 0 1]
+m30 C_out: [18 19; 19 20]
+m31 A_in: [18 19; 19 20]
+m31 B_in: [0 0; 0 0]
+m31 C_out: [0 0; 0 0]
+m32 A_in: [20 21; 21 22]
+m32 B_in: [0 0; 0 0]
+m32 C_out: [0 0; 0 0]
+m33 A_in: [20 21; 21 22]
+m33 B_in: [0 0; 0 0]
+m33 C_out: [0 0; 0 0]
+m34 A_in: [20 21; 21 22]
+m34 B_in: [0 0; 0 0]
+m34 C_out: [0 0; 0 0]
+m35 A_in: [20 21; 21 22]
+m35 B_in: [0 0; 0 0]
+m35 C_out: [0 0; 0 0]
+m36 A_in: [20 21; 21 22]
+m36 B_in: [0 0; 0 0]
+m36 C_out: [0 0; 0 0]
+m37 A_in: [20 21; 21 22]
+m37 B_in: [0 0; 0 0]
+m37 C_out: [0 0; 0 0]
+m38 A_in: [20 21; 21 22]
+m38 B_in: [1 0; 0 1]
+m38 C_out: [20 21; 21 22]
+m39 A_in: [20 21; 21 22]
+m39 B_in: [0 0; 0 0]
+m39 C_out: [0 0; 0 0]
+m40 A_in: [22 23; 23 24]
+m40 B_in: [0 0; 0 0]
+m40 C_out: [0 0; 0 0]
+m41 A_in: [22 23; 23 24]
+m41 B_in: [0 0; 0 0]
+m41 C_out: [0 0; 0 0]
+m42 A_in: [22 23; 23 24]
+m42 B_in: [0 0; 0 0]
+m42 C_out: [0 0; 0 0]
+m43 A_in: [22 23; 23 24]
+m43 B_in: [0 0; 0 0]
+m43 C_out: [0 0; 0 0]
+m44 A_in: [22 23; 23 24]
+m44 B_in: [0 0; 0 0]
+m44 C_out: [0 0; 0 0]
+m45 A_in: [22 23; 23 24]
+m45 B_in: [0 0; 0 0]
+m45 C_out: [0 0; 0 0]
+m46 A_in: [22 23; 23 24]
+m46 B_in: [1 0; 0 1]
+m46 C_out: [22 23; 23 24]
+m47 A_in: [22 23; 23 24]
+m47 B_in: [0 0; 0 0]
+m47 C_out: [0 0; 0 0]
+m48 A_in: [24 25; 25 26]
+m48 B_in: [0 0; 0 0]
+m48 C_out: [0 0; 0 0]
+m49 A_in: [24 25; 25 26]
+m49 B_in: [0 0; 0 0]
+m49 C_out: [0 0; 0 0]
+m50 A_in: [24 25; 25 26]
+m50 B_in: [0 0; 0 0]
+m50 C_out: [0 0; 0 0]
+m51 A_in: [24 25; 25 26]
+m51 B_in: [0 0; 0 0]
+m51 C_out: [0 0; 0 0]
+m52 A_in: [24 25; 25 26]
+m52 B_in: [0 0; 0 0]
+m52 C_out: [0 0; 0 0]
+m53 A_in: [24 25; 25 26]
+m53 B_in: [0 0; 0 0]
+m53 C_out: [0 0; 0 0]
+m54 A_in: [24 25; 25 26]
+m54 B_in: [1 0; 0 1]
+m54 C_out: [24 25; 25 26]
+m55 A_in: [24 25; 25 26]
+m55 B_in: [0 0; 0 0]
+m55 C_out: [0 0; 0 0]
+m56 A_in: [26 27; 27 28]
+m56 B_in: [0 0; 0 0]
+m56 C_out: [0 0; 0 0]
+m57 A_in: [26 27; 27 28]
+m57 B_in: [0 0; 0 0]
+m57 C_out: [0 0; 0 0]
+m58 A_in: [26 27; 27 28]
+m58 B_in: [0 0; 0 0]
+m58 C_out: [0 0; 0 0]
+m59 A_in: [26 27; 27 28]
+m59 B_in: [0 0; 0 0]
+m59 C_out: [0 0; 0 0]
+m60 A_in: [26 27; 27 28]
+m60 B_in: [0 0; 0 0]
+m60 C_out: [0 0; 0 0]
+m61 A_in: [26 27; 27 28]
+m61 B_in: [0 0; 0 0]
+m61 C_out: [0 0; 0 0]
+m62 A_in: [26 27; 27 28]
+m62 B_in: [1 0; 0 1]
+m62 C_out: [26 27; 27 28]
+m63 A_in: [26 27; 27 28]
+m63 B_in: [0 0; 0 0]
+m63 C_out: [0 0; 0 0]
+TB Matrix A:
+  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 
+  1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 
+  2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 
+  3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+  4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 
+  5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 
+  6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 
+  7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 
+  8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 
+  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 
+  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 
+  11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 
+  12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 
+  13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 
+  14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 
+  15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 
+TB Matrix B:
+  1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+TB Matrix C:
+  0 1 2 3 4 5 6 7 8 9 10 11 0 0 0 0 
+  1 2 3 4 5 6 7 8 9 10 11 12 0 0 0 0 
+  2 3 4 5 6 7 8 9 10 11 12 13 0 0 0 0 
+  3 4 5 6 7 8 9 10 11 12 13 14 0 0 0 0 
+  4 5 6 7 8 9 10 11 12 13 14 15 0 0 0 0 
+  5 6 7 8 9 10 11 12 13 14 15 16 0 0 0 0 
+  6 7 8 9 10 11 12 13 14 15 16 17 0 0 0 0 
+  7 8 9 10 11 12 13 14 15 16 17 18 0 0 0 0 
+  8 9 10 11 12 13 14 15 16 17 18 19 0 0 0 0 
+  9 10 11 12 13 14 15 16 17 18 19 20 0 0 0 0 
+  10 11 12 13 14 15 16 17 18 19 20 21 0 0 0 0 
+  11 12 13 14 15 16 17 18 19 20 21 22 0 0 0 0 
+  12 13 14 15 16 17 18 19 20 21 22 23 0 0 0 0 
+  13 14 15 16 17 18 19 20 21 22 23 24 0 0 0 0 
+  14 15 16 17 18 19 20 21 22 23 24 25 0 0 0 0 
+  15 16 17 18 19 20 21 22 23 24 25 26 0 0 0 0 
+-----------------------------------------------------
+TB Time 165000 | rst=0 start=1 done=0
+----- Multipliers inputs and outputs at time 165000 (state 0) (pass_j 7)-----
+m0 A_in: [12 13; 13 14]
+m0 B_in: [0 0; 0 0]
+m0 C_out: [0 0; 0 0]
+m1 A_in: [12 13; 13 14]
+m1 B_in: [0 0; 0 0]
+m1 C_out: [0 0; 0 0]
+m2 A_in: [12 13; 13 14]
+m2 B_in: [0 0; 0 0]
+m2 C_out: [0 0; 0 0]
+m3 A_in: [12 13; 13 14]
+m3 B_in: [0 0; 0 0]
+m3 C_out: [0 0; 0 0]
+m4 A_in: [12 13; 13 14]
+m4 B_in: [0 0; 0 0]
+m4 C_out: [0 0; 0 0]
+m5 A_in: [12 13; 13 14]
+m5 B_in: [0 0; 0 0]
+m5 C_out: [0 0; 0 0]
+m6 A_in: [12 13; 13 14]
+m6 B_in: [1 0; 0 1]
+m6 C_out: [12 13; 13 14]
+m7 A_in: [12 13; 13 14]
+m7 B_in: [0 0; 0 0]
+m7 C_out: [0 0; 0 0]
+m8 A_in: [14 15; 15 16]
+m8 B_in: [0 0; 0 0]
+m8 C_out: [0 0; 0 0]
+m9 A_in: [14 15; 15 16]
+m9 B_in: [0 0; 0 0]
+m9 C_out: [0 0; 0 0]
+m10 A_in: [14 15; 15 16]
+m10 B_in: [0 0; 0 0]
+m10 C_out: [0 0; 0 0]
+m11 A_in: [14 15; 15 16]
+m11 B_in: [0 0; 0 0]
+m11 C_out: [0 0; 0 0]
+m12 A_in: [14 15; 15 16]
+m12 B_in: [0 0; 0 0]
+m12 C_out: [0 0; 0 0]
+m13 A_in: [14 15; 15 16]
+m13 B_in: [0 0; 0 0]
+m13 C_out: [0 0; 0 0]
+m14 A_in: [14 15; 15 16]
+m14 B_in: [1 0; 0 1]
+m14 C_out: [14 15; 15 16]
+m15 A_in: [14 15; 15 16]
+m15 B_in: [0 0; 0 0]
+m15 C_out: [0 0; 0 0]
+m16 A_in: [16 17; 17 18]
+m16 B_in: [0 0; 0 0]
+m16 C_out: [0 0; 0 0]
+m17 A_in: [16 17; 17 18]
+m17 B_in: [0 0; 0 0]
+m17 C_out: [0 0; 0 0]
+m18 A_in: [16 17; 17 18]
+m18 B_in: [0 0; 0 0]
+m18 C_out: [0 0; 0 0]
+m19 A_in: [16 17; 17 18]
+m19 B_in: [0 0; 0 0]
+m19 C_out: [0 0; 0 0]
+m20 A_in: [16 17; 17 18]
+m20 B_in: [0 0; 0 0]
+m20 C_out: [0 0; 0 0]
+m21 A_in: [16 17; 17 18]
+m21 B_in: [0 0; 0 0]
+m21 C_out: [0 0; 0 0]
+m22 A_in: [16 17; 17 18]
+m22 B_in: [1 0; 0 1]
+m22 C_out: [16 17; 17 18]
+m23 A_in: [16 17; 17 18]
+m23 B_in: [0 0; 0 0]
+m23 C_out: [0 0; 0 0]
+m24 A_in: [18 19; 19 20]
+m24 B_in: [0 0; 0 0]
+m24 C_out: [0 0; 0 0]
+m25 A_in: [18 19; 19 20]
+m25 B_in: [0 0; 0 0]
+m25 C_out: [0 0; 0 0]
+m26 A_in: [18 19; 19 20]
+m26 B_in: [0 0; 0 0]
+m26 C_out: [0 0; 0 0]
+m27 A_in: [18 19; 19 20]
+m27 B_in: [0 0; 0 0]
+m27 C_out: [0 0; 0 0]
+m28 A_in: [18 19; 19 20]
+m28 B_in: [0 0; 0 0]
+m28 C_out: [0 0; 0 0]
+m29 A_in: [18 19; 19 20]
+m29 B_in: [0 0; 0 0]
+m29 C_out: [0 0; 0 0]
+m30 A_in: [18 19; 19 20]
+m30 B_in: [1 0; 0 1]
+m30 C_out: [18 19; 19 20]
+m31 A_in: [18 19; 19 20]
+m31 B_in: [0 0; 0 0]
+m31 C_out: [0 0; 0 0]
+m32 A_in: [20 21; 21 22]
+m32 B_in: [0 0; 0 0]
+m32 C_out: [0 0; 0 0]
+m33 A_in: [20 21; 21 22]
+m33 B_in: [0 0; 0 0]
+m33 C_out: [0 0; 0 0]
+m34 A_in: [20 21; 21 22]
+m34 B_in: [0 0; 0 0]
+m34 C_out: [0 0; 0 0]
+m35 A_in: [20 21; 21 22]
+m35 B_in: [0 0; 0 0]
+m35 C_out: [0 0; 0 0]
+m36 A_in: [20 21; 21 22]
+m36 B_in: [0 0; 0 0]
+m36 C_out: [0 0; 0 0]
+m37 A_in: [20 21; 21 22]
+m37 B_in: [0 0; 0 0]
+m37 C_out: [0 0; 0 0]
+m38 A_in: [20 21; 21 22]
+m38 B_in: [1 0; 0 1]
+m38 C_out: [20 21; 21 22]
+m39 A_in: [20 21; 21 22]
+m39 B_in: [0 0; 0 0]
+m39 C_out: [0 0; 0 0]
+m40 A_in: [22 23; 23 24]
+m40 B_in: [0 0; 0 0]
+m40 C_out: [0 0; 0 0]
+m41 A_in: [22 23; 23 24]
+m41 B_in: [0 0; 0 0]
+m41 C_out: [0 0; 0 0]
+m42 A_in: [22 23; 23 24]
+m42 B_in: [0 0; 0 0]
+m42 C_out: [0 0; 0 0]
+m43 A_in: [22 23; 23 24]
+m43 B_in: [0 0; 0 0]
+m43 C_out: [0 0; 0 0]
+m44 A_in: [22 23; 23 24]
+m44 B_in: [0 0; 0 0]
+m44 C_out: [0 0; 0 0]
+m45 A_in: [22 23; 23 24]
+m45 B_in: [0 0; 0 0]
+m45 C_out: [0 0; 0 0]
+m46 A_in: [22 23; 23 24]
+m46 B_in: [1 0; 0 1]
+m46 C_out: [22 23; 23 24]
+m47 A_in: [22 23; 23 24]
+m47 B_in: [0 0; 0 0]
+m47 C_out: [0 0; 0 0]
+m48 A_in: [24 25; 25 26]
+m48 B_in: [0 0; 0 0]
+m48 C_out: [0 0; 0 0]
+m49 A_in: [24 25; 25 26]
+m49 B_in: [0 0; 0 0]
+m49 C_out: [0 0; 0 0]
+m50 A_in: [24 25; 25 26]
+m50 B_in: [0 0; 0 0]
+m50 C_out: [0 0; 0 0]
+m51 A_in: [24 25; 25 26]
+m51 B_in: [0 0; 0 0]
+m51 C_out: [0 0; 0 0]
+m52 A_in: [24 25; 25 26]
+m52 B_in: [0 0; 0 0]
+m52 C_out: [0 0; 0 0]
+m53 A_in: [24 25; 25 26]
+m53 B_in: [0 0; 0 0]
+m53 C_out: [0 0; 0 0]
+m54 A_in: [24 25; 25 26]
+m54 B_in: [1 0; 0 1]
+m54 C_out: [24 25; 25 26]
+m55 A_in: [24 25; 25 26]
+m55 B_in: [0 0; 0 0]
+m55 C_out: [0 0; 0 0]
+m56 A_in: [26 27; 27 28]
+m56 B_in: [0 0; 0 0]
+m56 C_out: [0 0; 0 0]
+m57 A_in: [26 27; 27 28]
+m57 B_in: [0 0; 0 0]
+m57 C_out: [0 0; 0 0]
+m58 A_in: [26 27; 27 28]
+m58 B_in: [0 0; 0 0]
+m58 C_out: [0 0; 0 0]
+m59 A_in: [26 27; 27 28]
+m59 B_in: [0 0; 0 0]
+m59 C_out: [0 0; 0 0]
+m60 A_in: [26 27; 27 28]
+m60 B_in: [0 0; 0 0]
+m60 C_out: [0 0; 0 0]
+m61 A_in: [26 27; 27 28]
+m61 B_in: [0 0; 0 0]
+m61 C_out: [0 0; 0 0]
+m62 A_in: [26 27; 27 28]
+m62 B_in: [1 0; 0 1]
+m62 C_out: [26 27; 27 28]
+m63 A_in: [26 27; 27 28]
+m63 B_in: [0 0; 0 0]
+m63 C_out: [0 0; 0 0]
+TB Matrix A:
+  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 
+  1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 
+  2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 
+  3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+  4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 
+  5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 
+  6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 
+  7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 
+  8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 
+  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 
+  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 
+  11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 
+  12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 
+  13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 
+  14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 
+  15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 
+TB Matrix B:
+  1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+TB Matrix C:
+  0 1 2 3 4 5 6 7 8 9 10 11 12 13 0 0 
+  1 2 3 4 5 6 7 8 9 10 11 12 13 14 0 0 
+  2 3 4 5 6 7 8 9 10 11 12 13 14 15 0 0 
+  3 4 5 6 7 8 9 10 11 12 13 14 15 16 0 0 
+  4 5 6 7 8 9 10 11 12 13 14 15 16 17 0 0 
+  5 6 7 8 9 10 11 12 13 14 15 16 17 18 0 0 
+  6 7 8 9 10 11 12 13 14 15 16 17 18 19 0 0 
+  7 8 9 10 11 12 13 14 15 16 17 18 19 20 0 0 
+  8 9 10 11 12 13 14 15 16 17 18 19 20 21 0 0 
+  9 10 11 12 13 14 15 16 17 18 19 20 21 22 0 0 
+  10 11 12 13 14 15 16 17 18 19 20 21 22 23 0 0 
+  11 12 13 14 15 16 17 18 19 20 21 22 23 24 0 0 
+  12 13 14 15 16 17 18 19 20 21 22 23 24 25 0 0 
+  13 14 15 16 17 18 19 20 21 22 23 24 25 26 0 0 
+  14 15 16 17 18 19 20 21 22 23 24 25 26 27 0 0 
+  15 16 17 18 19 20 21 22 23 24 25 26 27 28 0 0 
+-----------------------------------------------------
+TB Time 175000 | rst=0 start=1 done=0
+----- Multipliers inputs and outputs at time 175000 (state 1) (pass_j 7)-----
+m0 A_in: [14 15; 15 16]
+m0 B_in: [0 0; 0 0]
+m0 C_out: [0 0; 0 0]
+m1 A_in: [14 15; 15 16]
+m1 B_in: [0 0; 0 0]
+m1 C_out: [0 0; 0 0]
+m2 A_in: [14 15; 15 16]
+m2 B_in: [0 0; 0 0]
+m2 C_out: [0 0; 0 0]
+m3 A_in: [14 15; 15 16]
+m3 B_in: [0 0; 0 0]
+m3 C_out: [0 0; 0 0]
+m4 A_in: [14 15; 15 16]
+m4 B_in: [0 0; 0 0]
+m4 C_out: [0 0; 0 0]
+m5 A_in: [14 15; 15 16]
+m5 B_in: [0 0; 0 0]
+m5 C_out: [0 0; 0 0]
+m6 A_in: [14 15; 15 16]
+m6 B_in: [0 0; 0 0]
+m6 C_out: [0 0; 0 0]
+m7 A_in: [14 15; 15 16]
+m7 B_in: [1 0; 0 1]
+m7 C_out: [14 15; 15 16]
+m8 A_in: [16 17; 17 18]
+m8 B_in: [0 0; 0 0]
+m8 C_out: [0 0; 0 0]
+m9 A_in: [16 17; 17 18]
+m9 B_in: [0 0; 0 0]
+m9 C_out: [0 0; 0 0]
+m10 A_in: [16 17; 17 18]
+m10 B_in: [0 0; 0 0]
+m10 C_out: [0 0; 0 0]
+m11 A_in: [16 17; 17 18]
+m11 B_in: [0 0; 0 0]
+m11 C_out: [0 0; 0 0]
+m12 A_in: [16 17; 17 18]
+m12 B_in: [0 0; 0 0]
+m12 C_out: [0 0; 0 0]
+m13 A_in: [16 17; 17 18]
+m13 B_in: [0 0; 0 0]
+m13 C_out: [0 0; 0 0]
+m14 A_in: [16 17; 17 18]
+m14 B_in: [0 0; 0 0]
+m14 C_out: [0 0; 0 0]
+m15 A_in: [16 17; 17 18]
+m15 B_in: [1 0; 0 1]
+m15 C_out: [16 17; 17 18]
+m16 A_in: [18 19; 19 20]
+m16 B_in: [0 0; 0 0]
+m16 C_out: [0 0; 0 0]
+m17 A_in: [18 19; 19 20]
+m17 B_in: [0 0; 0 0]
+m17 C_out: [0 0; 0 0]
+m18 A_in: [18 19; 19 20]
+m18 B_in: [0 0; 0 0]
+m18 C_out: [0 0; 0 0]
+m19 A_in: [18 19; 19 20]
+m19 B_in: [0 0; 0 0]
+m19 C_out: [0 0; 0 0]
+m20 A_in: [18 19; 19 20]
+m20 B_in: [0 0; 0 0]
+m20 C_out: [0 0; 0 0]
+m21 A_in: [18 19; 19 20]
+m21 B_in: [0 0; 0 0]
+m21 C_out: [0 0; 0 0]
+m22 A_in: [18 19; 19 20]
+m22 B_in: [0 0; 0 0]
+m22 C_out: [0 0; 0 0]
+m23 A_in: [18 19; 19 20]
+m23 B_in: [1 0; 0 1]
+m23 C_out: [18 19; 19 20]
+m24 A_in: [20 21; 21 22]
+m24 B_in: [0 0; 0 0]
+m24 C_out: [0 0; 0 0]
+m25 A_in: [20 21; 21 22]
+m25 B_in: [0 0; 0 0]
+m25 C_out: [0 0; 0 0]
+m26 A_in: [20 21; 21 22]
+m26 B_in: [0 0; 0 0]
+m26 C_out: [0 0; 0 0]
+m27 A_in: [20 21; 21 22]
+m27 B_in: [0 0; 0 0]
+m27 C_out: [0 0; 0 0]
+m28 A_in: [20 21; 21 22]
+m28 B_in: [0 0; 0 0]
+m28 C_out: [0 0; 0 0]
+m29 A_in: [20 21; 21 22]
+m29 B_in: [0 0; 0 0]
+m29 C_out: [0 0; 0 0]
+m30 A_in: [20 21; 21 22]
+m30 B_in: [0 0; 0 0]
+m30 C_out: [0 0; 0 0]
+m31 A_in: [20 21; 21 22]
+m31 B_in: [1 0; 0 1]
+m31 C_out: [20 21; 21 22]
+m32 A_in: [22 23; 23 24]
+m32 B_in: [0 0; 0 0]
+m32 C_out: [0 0; 0 0]
+m33 A_in: [22 23; 23 24]
+m33 B_in: [0 0; 0 0]
+m33 C_out: [0 0; 0 0]
+m34 A_in: [22 23; 23 24]
+m34 B_in: [0 0; 0 0]
+m34 C_out: [0 0; 0 0]
+m35 A_in: [22 23; 23 24]
+m35 B_in: [0 0; 0 0]
+m35 C_out: [0 0; 0 0]
+m36 A_in: [22 23; 23 24]
+m36 B_in: [0 0; 0 0]
+m36 C_out: [0 0; 0 0]
+m37 A_in: [22 23; 23 24]
+m37 B_in: [0 0; 0 0]
+m37 C_out: [0 0; 0 0]
+m38 A_in: [22 23; 23 24]
+m38 B_in: [0 0; 0 0]
+m38 C_out: [0 0; 0 0]
+m39 A_in: [22 23; 23 24]
+m39 B_in: [1 0; 0 1]
+m39 C_out: [22 23; 23 24]
+m40 A_in: [24 25; 25 26]
+m40 B_in: [0 0; 0 0]
+m40 C_out: [0 0; 0 0]
+m41 A_in: [24 25; 25 26]
+m41 B_in: [0 0; 0 0]
+m41 C_out: [0 0; 0 0]
+m42 A_in: [24 25; 25 26]
+m42 B_in: [0 0; 0 0]
+m42 C_out: [0 0; 0 0]
+m43 A_in: [24 25; 25 26]
+m43 B_in: [0 0; 0 0]
+m43 C_out: [0 0; 0 0]
+m44 A_in: [24 25; 25 26]
+m44 B_in: [0 0; 0 0]
+m44 C_out: [0 0; 0 0]
+m45 A_in: [24 25; 25 26]
+m45 B_in: [0 0; 0 0]
+m45 C_out: [0 0; 0 0]
+m46 A_in: [24 25; 25 26]
+m46 B_in: [0 0; 0 0]
+m46 C_out: [0 0; 0 0]
+m47 A_in: [24 25; 25 26]
+m47 B_in: [1 0; 0 1]
+m47 C_out: [24 25; 25 26]
+m48 A_in: [26 27; 27 28]
+m48 B_in: [0 0; 0 0]
+m48 C_out: [0 0; 0 0]
+m49 A_in: [26 27; 27 28]
+m49 B_in: [0 0; 0 0]
+m49 C_out: [0 0; 0 0]
+m50 A_in: [26 27; 27 28]
+m50 B_in: [0 0; 0 0]
+m50 C_out: [0 0; 0 0]
+m51 A_in: [26 27; 27 28]
+m51 B_in: [0 0; 0 0]
+m51 C_out: [0 0; 0 0]
+m52 A_in: [26 27; 27 28]
+m52 B_in: [0 0; 0 0]
+m52 C_out: [0 0; 0 0]
+m53 A_in: [26 27; 27 28]
+m53 B_in: [0 0; 0 0]
+m53 C_out: [0 0; 0 0]
+m54 A_in: [26 27; 27 28]
+m54 B_in: [0 0; 0 0]
+m54 C_out: [0 0; 0 0]
+m55 A_in: [26 27; 27 28]
+m55 B_in: [1 0; 0 1]
+m55 C_out: [26 27; 27 28]
+m56 A_in: [28 29; 29 30]
+m56 B_in: [0 0; 0 0]
+m56 C_out: [0 0; 0 0]
+m57 A_in: [28 29; 29 30]
+m57 B_in: [0 0; 0 0]
+m57 C_out: [0 0; 0 0]
+m58 A_in: [28 29; 29 30]
+m58 B_in: [0 0; 0 0]
+m58 C_out: [0 0; 0 0]
+m59 A_in: [28 29; 29 30]
+m59 B_in: [0 0; 0 0]
+m59 C_out: [0 0; 0 0]
+m60 A_in: [28 29; 29 30]
+m60 B_in: [0 0; 0 0]
+m60 C_out: [0 0; 0 0]
+m61 A_in: [28 29; 29 30]
+m61 B_in: [0 0; 0 0]
+m61 C_out: [0 0; 0 0]
+m62 A_in: [28 29; 29 30]
+m62 B_in: [0 0; 0 0]
+m62 C_out: [0 0; 0 0]
+m63 A_in: [28 29; 29 30]
+m63 B_in: [1 0; 0 1]
+m63 C_out: [28 29; 29 30]
+TB Matrix A:
+  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 
+  1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 
+  2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 
+  3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+  4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 
+  5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 
+  6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 
+  7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 
+  8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 
+  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 
+  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 
+  11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 
+  12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 
+  13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 
+  14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 
+  15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 
+TB Matrix B:
+  1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+TB Matrix C:
+  0 1 2 3 4 5 6 7 8 9 10 11 12 13 0 0 
+  1 2 3 4 5 6 7 8 9 10 11 12 13 14 0 0 
+  2 3 4 5 6 7 8 9 10 11 12 13 14 15 0 0 
+  3 4 5 6 7 8 9 10 11 12 13 14 15 16 0 0 
+  4 5 6 7 8 9 10 11 12 13 14 15 16 17 0 0 
+  5 6 7 8 9 10 11 12 13 14 15 16 17 18 0 0 
+  6 7 8 9 10 11 12 13 14 15 16 17 18 19 0 0 
+  7 8 9 10 11 12 13 14 15 16 17 18 19 20 0 0 
+  8 9 10 11 12 13 14 15 16 17 18 19 20 21 0 0 
+  9 10 11 12 13 14 15 16 17 18 19 20 21 22 0 0 
+  10 11 12 13 14 15 16 17 18 19 20 21 22 23 0 0 
+  11 12 13 14 15 16 17 18 19 20 21 22 23 24 0 0 
+  12 13 14 15 16 17 18 19 20 21 22 23 24 25 0 0 
+  13 14 15 16 17 18 19 20 21 22 23 24 25 26 0 0 
+  14 15 16 17 18 19 20 21 22 23 24 25 26 27 0 0 
+  15 16 17 18 19 20 21 22 23 24 25 26 27 28 0 0 
+-----------------------------------------------------
+TB Time 185000 | rst=0 start=1 done=0
+----- Multipliers inputs and outputs at time 185000 (state 2) (pass_j 7)-----
+m0 A_in: [14 15; 15 16]
+m0 B_in: [0 0; 0 0]
+m0 C_out: [0 0; 0 0]
+m1 A_in: [14 15; 15 16]
+m1 B_in: [0 0; 0 0]
+m1 C_out: [0 0; 0 0]
+m2 A_in: [14 15; 15 16]
+m2 B_in: [0 0; 0 0]
+m2 C_out: [0 0; 0 0]
+m3 A_in: [14 15; 15 16]
+m3 B_in: [0 0; 0 0]
+m3 C_out: [0 0; 0 0]
+m4 A_in: [14 15; 15 16]
+m4 B_in: [0 0; 0 0]
+m4 C_out: [0 0; 0 0]
+m5 A_in: [14 15; 15 16]
+m5 B_in: [0 0; 0 0]
+m5 C_out: [0 0; 0 0]
+m6 A_in: [14 15; 15 16]
+m6 B_in: [0 0; 0 0]
+m6 C_out: [0 0; 0 0]
+m7 A_in: [14 15; 15 16]
+m7 B_in: [1 0; 0 1]
+m7 C_out: [14 15; 15 16]
+m8 A_in: [16 17; 17 18]
+m8 B_in: [0 0; 0 0]
+m8 C_out: [0 0; 0 0]
+m9 A_in: [16 17; 17 18]
+m9 B_in: [0 0; 0 0]
+m9 C_out: [0 0; 0 0]
+m10 A_in: [16 17; 17 18]
+m10 B_in: [0 0; 0 0]
+m10 C_out: [0 0; 0 0]
+m11 A_in: [16 17; 17 18]
+m11 B_in: [0 0; 0 0]
+m11 C_out: [0 0; 0 0]
+m12 A_in: [16 17; 17 18]
+m12 B_in: [0 0; 0 0]
+m12 C_out: [0 0; 0 0]
+m13 A_in: [16 17; 17 18]
+m13 B_in: [0 0; 0 0]
+m13 C_out: [0 0; 0 0]
+m14 A_in: [16 17; 17 18]
+m14 B_in: [0 0; 0 0]
+m14 C_out: [0 0; 0 0]
+m15 A_in: [16 17; 17 18]
+m15 B_in: [1 0; 0 1]
+m15 C_out: [16 17; 17 18]
+m16 A_in: [18 19; 19 20]
+m16 B_in: [0 0; 0 0]
+m16 C_out: [0 0; 0 0]
+m17 A_in: [18 19; 19 20]
+m17 B_in: [0 0; 0 0]
+m17 C_out: [0 0; 0 0]
+m18 A_in: [18 19; 19 20]
+m18 B_in: [0 0; 0 0]
+m18 C_out: [0 0; 0 0]
+m19 A_in: [18 19; 19 20]
+m19 B_in: [0 0; 0 0]
+m19 C_out: [0 0; 0 0]
+m20 A_in: [18 19; 19 20]
+m20 B_in: [0 0; 0 0]
+m20 C_out: [0 0; 0 0]
+m21 A_in: [18 19; 19 20]
+m21 B_in: [0 0; 0 0]
+m21 C_out: [0 0; 0 0]
+m22 A_in: [18 19; 19 20]
+m22 B_in: [0 0; 0 0]
+m22 C_out: [0 0; 0 0]
+m23 A_in: [18 19; 19 20]
+m23 B_in: [1 0; 0 1]
+m23 C_out: [18 19; 19 20]
+m24 A_in: [20 21; 21 22]
+m24 B_in: [0 0; 0 0]
+m24 C_out: [0 0; 0 0]
+m25 A_in: [20 21; 21 22]
+m25 B_in: [0 0; 0 0]
+m25 C_out: [0 0; 0 0]
+m26 A_in: [20 21; 21 22]
+m26 B_in: [0 0; 0 0]
+m26 C_out: [0 0; 0 0]
+m27 A_in: [20 21; 21 22]
+m27 B_in: [0 0; 0 0]
+m27 C_out: [0 0; 0 0]
+m28 A_in: [20 21; 21 22]
+m28 B_in: [0 0; 0 0]
+m28 C_out: [0 0; 0 0]
+m29 A_in: [20 21; 21 22]
+m29 B_in: [0 0; 0 0]
+m29 C_out: [0 0; 0 0]
+m30 A_in: [20 21; 21 22]
+m30 B_in: [0 0; 0 0]
+m30 C_out: [0 0; 0 0]
+m31 A_in: [20 21; 21 22]
+m31 B_in: [1 0; 0 1]
+m31 C_out: [20 21; 21 22]
+m32 A_in: [22 23; 23 24]
+m32 B_in: [0 0; 0 0]
+m32 C_out: [0 0; 0 0]
+m33 A_in: [22 23; 23 24]
+m33 B_in: [0 0; 0 0]
+m33 C_out: [0 0; 0 0]
+m34 A_in: [22 23; 23 24]
+m34 B_in: [0 0; 0 0]
+m34 C_out: [0 0; 0 0]
+m35 A_in: [22 23; 23 24]
+m35 B_in: [0 0; 0 0]
+m35 C_out: [0 0; 0 0]
+m36 A_in: [22 23; 23 24]
+m36 B_in: [0 0; 0 0]
+m36 C_out: [0 0; 0 0]
+m37 A_in: [22 23; 23 24]
+m37 B_in: [0 0; 0 0]
+m37 C_out: [0 0; 0 0]
+m38 A_in: [22 23; 23 24]
+m38 B_in: [0 0; 0 0]
+m38 C_out: [0 0; 0 0]
+m39 A_in: [22 23; 23 24]
+m39 B_in: [1 0; 0 1]
+m39 C_out: [22 23; 23 24]
+m40 A_in: [24 25; 25 26]
+m40 B_in: [0 0; 0 0]
+m40 C_out: [0 0; 0 0]
+m41 A_in: [24 25; 25 26]
+m41 B_in: [0 0; 0 0]
+m41 C_out: [0 0; 0 0]
+m42 A_in: [24 25; 25 26]
+m42 B_in: [0 0; 0 0]
+m42 C_out: [0 0; 0 0]
+m43 A_in: [24 25; 25 26]
+m43 B_in: [0 0; 0 0]
+m43 C_out: [0 0; 0 0]
+m44 A_in: [24 25; 25 26]
+m44 B_in: [0 0; 0 0]
+m44 C_out: [0 0; 0 0]
+m45 A_in: [24 25; 25 26]
+m45 B_in: [0 0; 0 0]
+m45 C_out: [0 0; 0 0]
+m46 A_in: [24 25; 25 26]
+m46 B_in: [0 0; 0 0]
+m46 C_out: [0 0; 0 0]
+m47 A_in: [24 25; 25 26]
+m47 B_in: [1 0; 0 1]
+m47 C_out: [24 25; 25 26]
+m48 A_in: [26 27; 27 28]
+m48 B_in: [0 0; 0 0]
+m48 C_out: [0 0; 0 0]
+m49 A_in: [26 27; 27 28]
+m49 B_in: [0 0; 0 0]
+m49 C_out: [0 0; 0 0]
+m50 A_in: [26 27; 27 28]
+m50 B_in: [0 0; 0 0]
+m50 C_out: [0 0; 0 0]
+m51 A_in: [26 27; 27 28]
+m51 B_in: [0 0; 0 0]
+m51 C_out: [0 0; 0 0]
+m52 A_in: [26 27; 27 28]
+m52 B_in: [0 0; 0 0]
+m52 C_out: [0 0; 0 0]
+m53 A_in: [26 27; 27 28]
+m53 B_in: [0 0; 0 0]
+m53 C_out: [0 0; 0 0]
+m54 A_in: [26 27; 27 28]
+m54 B_in: [0 0; 0 0]
+m54 C_out: [0 0; 0 0]
+m55 A_in: [26 27; 27 28]
+m55 B_in: [1 0; 0 1]
+m55 C_out: [26 27; 27 28]
+m56 A_in: [28 29; 29 30]
+m56 B_in: [0 0; 0 0]
+m56 C_out: [0 0; 0 0]
+m57 A_in: [28 29; 29 30]
+m57 B_in: [0 0; 0 0]
+m57 C_out: [0 0; 0 0]
+m58 A_in: [28 29; 29 30]
+m58 B_in: [0 0; 0 0]
+m58 C_out: [0 0; 0 0]
+m59 A_in: [28 29; 29 30]
+m59 B_in: [0 0; 0 0]
+m59 C_out: [0 0; 0 0]
+m60 A_in: [28 29; 29 30]
+m60 B_in: [0 0; 0 0]
+m60 C_out: [0 0; 0 0]
+m61 A_in: [28 29; 29 30]
+m61 B_in: [0 0; 0 0]
+m61 C_out: [0 0; 0 0]
+m62 A_in: [28 29; 29 30]
+m62 B_in: [0 0; 0 0]
+m62 C_out: [0 0; 0 0]
+m63 A_in: [28 29; 29 30]
+m63 B_in: [1 0; 0 1]
+m63 C_out: [28 29; 29 30]
+TB Matrix A:
+  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 
+  1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 
+  2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 
+  3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+  4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 
+  5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 
+  6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 
+  7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 
+  8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 
+  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 
+  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 
+  11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 
+  12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 
+  13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 
+  14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 
+  15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 
+TB Matrix B:
+  1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+TB Matrix C:
+  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 
+  1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 
+  2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 
+  3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+  4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 
+  5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 
+  6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 
+  7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 
+  8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 
+  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 
+  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 
+  11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 
+  12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 
+  13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 
+  14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 
+  15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 
+-----------------------------------------------------
+Result matrix C:
+C:
+  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 
+  1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 
+  2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 
+  3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+  4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 
+  5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 
+  6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 
+  7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 
+  8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 
+  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 
+  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 
+  11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 
+  12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 
+  13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 
+  14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 
+  15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 
+tb_systolic_16x16_mult_matrix_flattened.sv:91: $finish called at 190000 (1ps)
