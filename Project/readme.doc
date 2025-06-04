@@ -1,8 +1,13 @@
 A new directory created to store the project progress.
 This directory contains three subdirectories
-sys16: This directory contains 16x16 vector multipler verilog implementation. This is the goal of the 
-architecture
-sys4: This directory contains 4x4 vector multiplier verilog implementation
+sys16: This directory contains 16x16 vector multipler verilog implementation. It  uses a systolic array architecture using 
+a 2x2 matrix multiplier as a processing element. There are 64, 2x2 multiplier used to generate a 16x16 multiplication in 
+16 clock cycles. using This is the goal of the HW accelerateor architecture and appears to be world class based on available 
+research.
+sys4: This directory contains 4x4 vector multiplier verilog implementation usinga  2x2 multiplier as a PE. I added this to 
+demonstrate a fully functional synthesizable flow that created a GDS output.The origial 16x16 was too complex to run on the 
+Openlane SW and ran out of SW 
 system: This directory contains the overall system architecture and intended use of the HW multiplier
-built in sys16. Navigate to system/ProjectDoc.pdf file to get an overview of the approach. The accelerator would result
-in 500% speedup in the intended application
+demonstrated in sys16. Navigate to system/ProjectDoc.pdf file to get an overview of the approach. The accelerator would result
+in 500% speedup in the intended application. (Assuming 6x acceleration due to HW accelerator to a the overall CNN object
+detection workflow which spends 85% of the time in the vector multiplication) 
