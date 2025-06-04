@@ -1,0 +1,67 @@
+I used ChatGPT, Gemini and Perplexity LLMs to do the research. Each LLM seems to have some positives
+and some negatives and I had to try all three LLMs and come up with the best possible answer to the problem
+I was intending to solve. 
+
+1. WW1  Installation of Verilog simulator on the PC. Created Testbench and verified source code for the neuron.
+
+2. WW2. Installation of the profiler, pyMTL. I tried the frozenlake example and profiled it using pyMTL.
+
+        Following is documented in the system directory
+3. WW3. Problem statement definition. HW Acceleration of the object detection machine learning inference code.
+        I had previously done some SW code development trials in this area. Based on the results obtained I 
+        knew that a Yolov5 based python implementation would give me a world class level object detection 
+        accuracy. (Greater than 90%). My dataset came from a publicly available roboflow.
+        
+4. WW4. Reviewed CNN Yolov5 system architecture on Ultralytics website. Effectively it consumes a 640x640x3 pixel image 
+        to determine if the image contains a person riding a motorcycle or a bicycle is wearing a helmet. It 
+        first identifies all people in the image that fit the criterion and provides a probability of whether the 
+        person is wearing a helmet or not.
+        Pretty soon I came to the conclusion that accelerating the entire yolov5 accelerator in the HW would not be 
+        practical sense and it would be better to take a general purpose architecture to speed up the HW bottlenecks
+        such as MAC.
+
+5. WW5. Reviewed RISCV documentation and analyzed the state of the art MAC acceleration techniques. It appears that 
+        RISCV is currently defining VMMUL as an a new instruction to accelerate the MAC and the instruction is not
+        yet fully defined. Currently two options are being debated. vector multiplication acceleration (simpler,slower)
+        vs matrix multiplication acceleration.(harder, faster). I chose the matrix multiplier acceleration as the HW
+        accelerator goal since inspite of complexity it provided a significant speedup.
+
+        The following is documented in the sys4 and sys16 directories.
+6. WW6. Analyzed different matrix multiplication accelerators. The options considered were 2x2, 4x4, 8x8, 16x16, 32x32
+        I implemented python code using for each of the multiplier to develop familiarity. Based on the literature
+        survey I determined that 16x16 with an INT16 data provided a sweet-spot. 
+
+7. WW7. Analyzed systolic array architecture to implement matrix multiplication. It uses a simple PE (Processing 
+        Element) and uses concurrent multiple multipliers over multiple clocks. The typical approach is to use a 1x1
+        as a PE. I felt that if I use a 2x2 PE it would reduce the number of clocks and still would be simple enough 
+        to execute in one clock. Started to implement 4x4 matrix multiplication as a systolic array using 2x2 PE. This
+        took 2 stages execute. (4 clocks, 2 clocks per stage, 1 clock to load and 2nd clock to read the PE results)
+
+8. WW8.  A 16x16 multiplier as a systolic array can be implemented with a traditional approach that uses 22 clocks 
+         and 48 multipliers. However in this approach not all multipliers are used at all times and is a wasteful
+         approach. Using the experience I had gained on a 4x4 multiplier I felt that use of 64 multipliers would 
+         require only 8 stages to execute. I had to do a lot of research to ultimately come up with an algorithm.
+
+9. WW9.  After multiple trial and errors I completed 16x16 accelerator Verilog code documented in the sys16 directory.
+         It does execute in 8 stages and uses all 64 (2x2 vector multipliers) concurrently.
+
+10. WW10. Installed and executed Openlane to execute a synthesis flow. Sys16 synthesis was too complex and the 
+          machine ran out of resources. So I used sys4 synthesis to show the full synthesis flow. Completed 
+          all the necessary documentation.
+
+
+Challenges
+Use of low cost tools such as ivarcus Verilog and Openlane synthesis SW on a PC comes with its own set of limitations. 
+e.g. Use of Generate statements for synthesis, use of matrix as input parameters. Each one of these issues 
+took multiple trial and errors to ultimately resolve each of the issues. The Openlane synthesis supports 130nm technology
+
+Next Steps
+No project is ever truely complete. I would like to use commercially available tools such as Cadence or Synopsys for
+my synthesis flow. I would also like to add memory interface to my accelerator that would feed/retrieve the data to the 
+accelerator in an efficient manner and reduce the pincount. I would also like to use the servers to accelerate the
+synthesis portion of the design.  
+
+
+ 
+       
+           
